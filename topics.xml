@@ -1,16 +1,16 @@
 <topics>
-  <topic>
-    <id>https://guides.loc.gov/chronicling-america-boston-subway</id>
-    <results>
-      <result>
-<id>https://www.loc.gov/resource/sn84024441/1897-03-04/ed-1/?sp=5&ampq=Boston+Dead+dead+explosion+flame+gas+Gas+Subway&ampst=text&ampr=0.239,0.386,0.463,0.493,0</id>
-	<rel>0</rel>
-	<text>/</text>
-      </result>
-      <result>
-	<id>https://www.loc.gov/resource/sn83030214/1897-09-19/ed-1/?sp=32&ampq=BOSTON+Boston+BOSTONS+SUBWAY+subway</id>
-	<rel>1</rel>
-	<text>UNDERGROUND TRAVEL.
+	<topic>
+		<id>https://guides.loc.gov/chronicling-america-boston-subway</id>
+		<results>
+			<result>
+				<id>https://www.loc.gov/resource/sn84024441/1897-03-04/ed-1/?sp=5&ampq=Boston+Dead+dead+explosion+flame+gas+Gas+Subway&ampst=text&ampr=0.239,0.386,0.463,0.493,0</id>
+				<rel>0</rel>
+				<text>/</text>
+			</result>
+			<result>
+				<id>https://www.loc.gov/resource/sn83030214/1897-09-19/ed-1/?sp=32&ampq=BOSTON+Boston+BOSTONS+SUBWAY+subway</id>
+				<rel>1</rel>
+				<text>UNDERGROUND TRAVEL.
 T1IK BOSTON SUBWAY PARTLY COM?
 PLETED AND IN OPERATION.
 A BRI0I1TI.T UOIITED Tl NNW. AFKfU'.PlN?: RAPID
@@ -62,12 +62,13 @@ been done on the northern portion of the route,
 arid it is h? i I thai everything all) be finished
 within th> n \t eight months. Hi und wats
 broken for the subway in April, 1805, twenty
-Bine month- ago.</text>
-      </result>
-      <result>
-      <id>https://www.loc.gov/resource/sn95079490/1897-10-23/ed-1/?sp=7&ampq=BOSTON+SUBWAY</id>
-	<rel>1</rel>
-	<text>
+Bine month- ago.
+				</text>
+			</result>
+			<result>
+				<id>https://www.loc.gov/resource/sn95079490/1897-10-23/ed-1/?sp=7&ampq=BOSTON+SUBWAY</id>
+				<rel>1</rel>
+				<text>
         THE BOSTON SUBWAY
 SATISFACTORY SOLUTION OF THE
 STREET CAR PROBLEM.
@@ -155,10 +156,11 @@ transit commissioners say that it is proba?
 ble the cost will bo about $1,000,000 less
 than that sum.
 	</text>
-      </result>
-      <result>    <id>https://www.loc.gov/resource/sn83030272/1897-12-15/ed-1/?sp=3&ampq=BOSTON+Boston+SUBWAY+subway&ampst=text&ampr=-0.026,0.088,0.323,0.344,0</id>
-	<rel>1</rel>
-	<text>
+			</result>
+			<result>
+				<id>https://www.loc.gov/resource/sn83030272/1897-12-15/ed-1/?sp=3&ampq=BOSTON+Boston+SUBWAY+subway&ampst=text&ampr=-0.026,0.088,0.323,0.344,0</id>
+				<rel>1</rel>
+				<text>
         BOSTON'S UNUSED SUBWAY.
 ft) H' VMDBnOltOVSD TBAXBITA TAILURE
 j jjv oxvU x. rjtA otice.
@@ -236,17 +238,16 @@ e the Boston Transit Commission was ap
 nted to devise a suitable means to relieve the
 Station.
 	</text>
-      </result>
-      <result>
-      <id>https://www.loc.gov/resource/sn82016413/1901-07-24/ed-1/?sp=6&ampq=Boston+subway&ampst=text&ampr=-0.249,-0.075,1.499,1.499,0</id>
-	<rel>0</rel>
-	<text>
-	</text>
-      </result>
-      <result>
-      <id>https://www.loc.gov/resource/sn83030214/1903-06-21/ed-1/?sp=42&ampq=BOSTON+subway&ampst=text&ampr=-0.302,-487.696,1.604,976.836,0</id>
-	<rel>1</rel>
-	<text>
+			</result>
+			<result>
+				<id>https://www.loc.gov/resource/sn82016413/1901-07-24/ed-1/?sp=6&ampq=Boston+subway&ampst=text&ampr=-0.249,-0.075,1.499,1.499,0</id>
+				<rel>0</rel>
+				<text></text>
+			</result>
+			<result>
+				<id>https://www.loc.gov/resource/sn83030214/1903-06-21/ed-1/?sp=42&ampq=BOSTON+subway&ampst=text&ampr=-0.302,-487.696,1.604,976.836,0</id>
+				<rel>1</rel>
+				<text>
 	THE MARCH OF IMPROVEMENT IS FAST OBLITERATING MANY OF BOSTONS MOST FAMOUS OLD LANDMARKS
 OLD STATIC HOUSE, BOSTON.
 To be transformed Into a tunnel station for the subway
@@ -283,29 +284,26 @@ side to the busy world. The old Slat- House
 itself is to be transformed into a tunnel station
 connecting with a subway line also. 
 	</text>
-      </result>
-      <result>
-      <id>https://www.loc.gov/resource/sn84020274/1904-05-08/ed-1/?sp=57&ampq=New+subway+York&ampr=-0.957,-0.491,2.915,1.552,0</id>
-	<rel>0</rel>
-	<text>
-	</text>
-      </result>
-      <result>
-      <id>https://www.loc.gov/resource/sn88085947/1904-10-27/ed-1/?sp=1&ampq=NEW+OPENED+SUBWAY+YORK&ampr=0.537,0.618,0.201,0.107,0</id>
-	<rel>0</rel>
-	<text>
-	</text>
-      </result>
-      <result>  
-      <id>https://www.loc.gov/resource/sn87078082/1910-12-07/ed-1/?sp=3&ampq=Boston+Subway+subway+suicide+SUICIDE&ampr=-0.203,0.2,0.541,0.288,0</id>
-	<rel>0</rel>
-	<text>
-	</text>
-      </result>
-      <result>  
-     <id>https://www.loc.gov/resource/sn97067598/1919-07-21/ed-1/?sp=1&ampq=Boston+BOSTON+Subway&ampr=-0.093%2C0.107%2C0.996%2C0.53%2C0&ampst=text</id>
-	<rel>1</rel>
-	<text>
+			</result>
+			<result>
+				<id>https://www.loc.gov/resource/sn84020274/1904-05-08/ed-1/?sp=57&ampq=New+subway+York&ampr=-0.957,-0.491,2.915,1.552,0</id>
+				<rel>0</rel>
+				<text></text>
+			</result>
+			<result>
+				<id>https://www.loc.gov/resource/sn88085947/1904-10-27/ed-1/?sp=1&ampq=NEW+OPENED+SUBWAY+YORK&ampr=0.537,0.618,0.201,0.107,0</id>
+				<rel>0</rel>
+				<text></text>
+			</result>
+			<result>
+				<id>https://www.loc.gov/resource/sn87078082/1910-12-07/ed-1/?sp=3&ampq=Boston+Subway+subway+suicide+SUICIDE&ampr=-0.203,0.2,0.541,0.288,0</id>
+				<rel>0</rel>
+				<text></text>
+			</result>
+			<result>
+				<id>https://www.loc.gov/resource/sn97067598/1919-07-21/ed-1/?sp=1&ampq=Boston+BOSTON+Subway&ampr=-0.093%2C0.107%2C0.996%2C0.53%2C0&ampst=text</id>
+				<rel>1</rel>
+				<text>
 	Traffic Resumed On Boston
 Subway, Elevated And
 Surf ace Lines
@@ -333,52 +331,44 @@ she decided to cali him and lecciving
 no response to her summons entered
 the bedroom.
 	</text>
-      </result>  
-       <result>  
-    
-<id>https://www.loc.gov/resource/sn87065526/1963-07-25/ed-1/?sp=3&q=boston+subway&r=-1.02,-0.028,3.04,1.618,0</id>
-	<rel>0</rel>
-	<text>
-	</text>
-      </result>
-      <result>  
-    
-<id>https://www.loc.gov/resource/sn79000083/1961-11-18/ed-1/?sp=3&q=boston+subway&st=text&r=-0.297,-0.08,1.593,1.593,0</id>
-	<rel>0</rel>
-	<text>
-	</text>
-      </result>
-      <result>  
-    
-<id>https://www.loc.gov/resource/sn83004278/1961-09-27/ed-1/?sp=4&q=boston+subway&st=text&r=0.655,0.339,0.203,0.216,0</id>
-	<rel>0</rel>
-	<text>
-	</text>
-      </result>
-      <result>  
-    
-<id>https://www.loc.gov/resource/sn86075229/1955-02-24/ed-1/?sp=2&q=boston+subway&st=text&r=-0.262,-0.123,1.524,1.524,0</id>
-	<rel>1</rel>
-	<text> The first subway opened in
+			</result>
+			<result>
+				<id>https://www.loc.gov/resource/sn87065526/1963-07-25/ed-1/?sp=3&q=boston+subway&r=-1.02,-0.028,3.04,1.618,0</id>
+				<rel>0</rel>
+				<text></text>
+			</result>
+			<result>
+				<id>https://www.loc.gov/resource/sn79000083/1961-11-18/ed-1/?sp=3&q=boston+subway&st=text&r=-0.297,-0.08,1.593,1.593,0</id>
+				<rel>0</rel>
+				<text></text>
+			</result>
+			<result>
+				<id>https://www.loc.gov/resource/sn83004278/1961-09-27/ed-1/?sp=4&q=boston+subway&st=text&r=0.655,0.339,0.203,0.216,0</id>
+				<rel>0</rel>
+				<text></text>
+			</result>
+			<result>
+				<id>https://www.loc.gov/resource/sn86075229/1955-02-24/ed-1/?sp=2&q=boston+subway&st=text&r=-0.262,-0.123,1.524,1.524,0</id>
+				<rel>1</rel>
+				<text> The first subway opened in
 Boston in 1897.
 	</text>
-      </result>
-     <result>  
-    
-<id>https://www.loc.gov/resource/sn85053044/1952-01-04/ed-1/?sp=4&q=boston+subway&st=text&r=0.211,0.332,0.705,0.705,0</id>
-	<rel>0</rel>
-	<text>
-	</text>
-      </result>
-    </results>
-  </topic> – TOPIC 2(10 + 5)
-  <topic>
-    <id>https://guides.loc.gov/chronicling-america-eiffel-tower/selected-articles</id>
-    <results>
-      <result>
-	<id>https://www.loc.gov/resource/sn83025121/1889-04-02/ed-1/?sp=8&q=Eiffel+Tower+France+French+Paris+Worlds+Fair&st=text&r=-0.283,-0.078,1.566,1.566,0</id>
-	<rel>1</rel>
-	<text>THE EIFFEL TOWER
+			</result>
+			<result>
+				<id>https://www.loc.gov/resource/sn85053044/1952-01-04/ed-1/?sp=4&q=boston+subway&st=text&r=0.211,0.332,0.705,0.705,0</id>
+				<rel>0</rel>
+				<text></text>
+			</result>
+		</results>
+	</topic> – TOPIC 2(10 + 5)
+  
+	<topic>
+		<id>https://guides.loc.gov/chronicling-america-eiffel-tower/selected-articles</id>
+		<results>
+			<result>
+				<id>https://www.loc.gov/resource/sn83025121/1889-04-02/ed-1/?sp=8&q=Eiffel+Tower+France+French+Paris+Worlds+Fair&st=text&r=-0.283,-0.078,1.566,1.566,0</id>
+				<rel>1</rel>
+				<text>THE EIFFEL TOWER
 A Msht and Sensation for lisitor to
 1arls
 In view of the assurance of a
@@ -423,11 +413,11 @@ feet There are to bo four perman
 ent restaurants for the refreshment
 of visitors on the first stage of the
 tower</text>
-      </result>
-      <result> 
-	<id>https://www.loc.gov/resource/sn91068084/1889-04-26/ed-1/?sp=5&q=Eiffel+Tower+Paris+Exhibition+1000+Feet+High+France+French+Worlds+Fair&st=text&r=-0.335,-0.083,1.669,1.669,0</id>
-	<rel>1</rel>
-	<text>NEARLY 1000 FEET HIG&
+			</result>
+			<result>
+				<id>https://www.loc.gov/resource/sn91068084/1889-04-26/ed-1/?sp=5&q=Eiffel+Tower+Paris+Exhibition+1000+Feet+High+France+French+Worlds+Fair&st=text&r=-0.335,-0.083,1.669,1.669,0</id>
+				<rel>1</rel>
+				<text>NEARLY 1000 FEET HIG&
 The Great Eiffel Tower at the
 Paris Exposition.
 How the Colossal Structure, Just
@@ -646,11 +636,11 @@ The fees for ascending the Eiffel tower are
 five francs (1) to the cop, three francs
 (sixty cents) to the second platform an 1 two
 francs (forty cents) t. the first. </text>
-      </result>
-      <result> 
-	<id>https://www.loc.gov/resource/sn87060190/1889-05-07/ed-1/?sp=4&q=Eiffel+Tower+Paris+France+French+Expo+Exhibition+Worlds+Fair</id>
-	<rel>1</rel>
-	<text>BASE OF EIFFEL TOWER,
+			</result>
+			<result>
+				<id>https://www.loc.gov/resource/sn87060190/1889-05-07/ed-1/?sp=4&q=Eiffel+Tower+Paris+France+French+Expo+Exhibition+Worlds+Fair</id>
+				<rel>1</rel>
+				<text>BASE OF EIFFEL TOWER,
 ia tho middlo, and is surrounded by build
 ings containing exhibitions of flue arts,
 boUos lettres, tho liberal arts, and various
@@ -700,16 +690,16 @@ Eiffel tower. Tho first sod was turned in
 excavation for its foundation on January
 28, 1887, and the whole work was completed
 on March 31, 1889.</text>
-      </result>
-      <result>
-	<id>https://www.loc.gov/resource/sn85033162/1900-05-18/ed-1/?sp=3&q=Paris+Exposition&st=text&r=0.311,-0.049,0.165,0.176,0</id>
-	<rel>0</rel>
-	<text></text>
-      </result>
-      <result>  
-	<id>https://www.loc.gov/resource/sn85032018/1894-01-31/ed-1/?sp=15&q=Eiffel+Tower+Paris+France+French+Worlds+Fair+1900+Exhibition&st=text&r=0.049,0.411,0.455,0.485,0</id>
-	<rel>1</rel>
-	<text>tj Happily all Paris is not so pessi
+			</result>
+			<result>
+				<id>https://www.loc.gov/resource/sn85033162/1900-05-18/ed-1/?sp=3&q=Paris+Exposition&st=text&r=0.311,-0.049,0.165,0.176,0</id>
+				<rel>0</rel>
+				<text></text>
+			</result>
+			<result>
+				<id>https://www.loc.gov/resource/sn85032018/1894-01-31/ed-1/?sp=15&q=Eiffel+Tower+Paris+France+French+Worlds+Fair+1900+Exhibition&st=text&r=0.049,0.411,0.455,0.485,0</id>
+				<rel>1</rel>
+				<text>tj Happily all Paris is not so pessi
 mistic as my friend, and the architects
 are busy with their plans. All the
 ground comprised in the exhibition of
@@ -752,11 +742,11 @@ park of Versailles, on either side of
 the grand canal, is to be the retro
 spective history of gardens throughout
 the ages.</text>
-      </result>
-      <result>
-	<id>https://www.loc.gov/resource/sn83040198/1899-02-03/ed-1/?sp=7&q=Eiffel+Tower+France+French+Paris+Exhibition+Worlds+Fair+Ladder+Clouds</id>
-	<rel>1</rel>
-	<text>A LADDER FROM THE CLOUDS
+			</result>
+			<result>
+				<id>https://www.loc.gov/resource/sn83040198/1899-02-03/ed-1/?sp=7&q=Eiffel+Tower+France+French+Paris+Exhibition+Worlds+Fair+Ladder+Clouds</id>
+				<rel>1</rel>
+				<text>A LADDER FROM THE CLOUDS
 Bach Will Be the Appearance of the
 Eiffel Tower of Parts When
 Painted.
@@ -841,11 +831,11 @@ repeat that at Caen recently a student
 went out of his way to publiely insult
 Great Britain. As a boy I was first for
 some years at school in Paris.</text>
-      </result>
-      <result> 
-	<id>https://www.loc.gov/resource/sn83030214/1900-05-20/ed-1/?sp=43&q=Feet+Tower+Eiffel+Paris+France+French+Worlds+Fair+Exhibition&st=text&r=0.213,0.783,0.517,0.551,0</id>
-	<rel>1</rel>
-	<text>way from the Eiffel Tower
+			</result>
+			<result>
+				<id>https://www.loc.gov/resource/sn83030214/1900-05-20/ed-1/?sp=43&q=Feet+Tower+Eiffel+Paris+France+French+Worlds+Fair+Exhibition&st=text&r=0.213,0.783,0.517,0.551,0</id>
+				<rel>1</rel>
+				<text>way from the Eiffel Tower
 Ml M
 •i" first ha'.f c* the left line is the Palace of
 H;srs and Metallurgy. Like all the other build
@@ -912,12 +902,13 @@ which supply electrical power to the exhibition.
 The building Is illuminated by 5.000 variegated
 PAVILIONS AT THE FEET OV THE EIFFEL TOWER.
 S arc lamps with col
-four arc lamps with re</text>
-      </result>
-    <result>
-	<id>https://www.loc.gov/resource/sn90059523/1903-10-25/ed-1/?sp=24&q=Eiffel+Tower+Doomed+Rocks+Wind+Paris+France+French+Gustav</id>
-	<rel>1</rel>
-	<text>THE Eiffel Tower must come down.
+four arc lamps with re
+				</text>
+			</result>
+			<result>
+				<id>https://www.loc.gov/resource/sn90059523/1903-10-25/ed-1/?sp=24&q=Eiffel+Tower+Doomed+Rocks+Wind+Paris+France+French+Gustav</id>
+				<rel>1</rel>
+				<text>THE Eiffel Tower must come down.
 The authorities of Paris have so decreed.
 This iron spire, the tallest structure in the
 world, and the engineering feat of the last cen
@@ -1051,11 +1042,11 @@ Stepping over to the New World to complete the table
 of comparisons more ambitious figures are encountered,
 and yet our best achievements are as pigmies in the
 shadow of the tower that Eiffel built.</text>
-      </result>
-     <result>   
-	<id>https://www.loc.gov/resource/sn84026749/1907-03-10/ed-1/?sp=47&q=Eiffel+Tower+Gustav+Paris+France+French+Republic</id>
-	<rel>1</rel>
-	<text>France Pranceher her fron frontiers fro1Zjers
+			</result>
+			<result>
+				<id>https://www.loc.gov/resource/sn84026749/1907-03-10/ed-1/?sp=47&q=Eiffel+Tower+Gustav+Paris+France+French+Republic</id>
+				<rel>1</rel>
+				<text>France Pranceher her fron frontiers fro1Zjers
 tiers jers her chains clzaillsof clzaillsoffortresses of offortresses
 fortresses and her herseaboard herscaboardsllch
 seaboard scaboardsllch such Is Isto isto
@@ -1162,11 +1153,11 @@ ture but this part has never been open to the thepublic theBublic
 public publicWhen
 When qen these different platforms are can canverted CQ CQverted
 verted in into tn airship stations the French will in indeed</text>
-      </result>
-     <result>  
-	<id>https://www.loc.gov/resource/sn83045462/1907-05-18/ed-1/?sp=26&q=Dangerous+Painting+World+Eiffel+Tower+Paris+France+French+Republic+Gustav&st=text&r=0.1,0.034,1.119,1.119,0</id>
-	<rel>1</rel>
-	<text>Height of the Great Tower
+			</result>
+			<result>
+				<id>https://www.loc.gov/resource/sn83045462/1907-05-18/ed-1/?sp=26&q=Dangerous+Painting+World+Eiffel+Tower+Paris+France+French+Republic+Gustav&st=text&r=0.1,0.034,1.119,1.119,0</id>
+				<rel>1</rel>
+				<text>Height of the Great Tower
 as Compared to Some of
 the World's Tallest
 Structures.
@@ -1352,40 +1343,42 @@ while the true top of the tower is still
 VIotroxA Poll- 0
 a tu^ui u. i- ano nuuiu uavc niuic uiatt o Ui" j
 flcient room, In fact, to fall between any of
-the sections of the Eiffel' tower.</text>
-      </result>
-      <result>
-	<id>https://www.loc.gov/resource/sn83045462/1963-12-27/ed-1/?sp=10&q=eiffel+tower</id>
-	<rel>0</rel>
-	<text></text>
-      </result>
-      <result>  
-	<id>https://www.loc.gov/resource/sn83045462/1963-12-18/ed-1/?sp=63&q=eiffel+tower</id>
-	<rel>0</rel>
-	<text></text>
-      </result>
-      <result>  – doc 13
-	<id>https://www.loc.gov/resource/sn87065526/1963-11-07/ed-1/?sp=4&q=eiffel+tower</id>
-	<rel>1</rel>
-	<text>PARIS (UPI) Six months ago
+the sections of the Eiffel' tower.
+				</text>
+			</result>
+			<result>
+				<id>https://www.loc.gov/resource/sn83045462/1963-12-27/ed-1/?sp=10&q=eiffel+tower</id>
+				<rel>0</rel>
+				<text></text>
+			</result>
+			<result>
+				<id>https://www.loc.gov/resource/sn83045462/1963-12-18/ed-1/?sp=63&q=eiffel+tower</id>
+				<rel>0</rel>
+				<text></text>
+			</result>
+			<result>  – doc 13
+	
+				<id>https://www.loc.gov/resource/sn87065526/1963-11-07/ed-1/?sp=4&q=eiffel+tower</id>
+				<rel>1</rel>
+				<text>PARIS (UPI) Six months ago
 Annette Marie Nigen, 33, plunged
 from the first platform of the Eiffel
 Tower and survived.</text>
-      </result>
-      <result> 
-	<id>https://www.loc.gov/resource/sn83045462/1963-08-04/ed-1/?sp=54&q=eiffel+tower&st=text&r=-0.371,-0.087,1.742,1.742,0</id>
-	<rel>1</rel>
-	<text>rigid as a ram
+			</result>
+			<result>
+				<id>https://www.loc.gov/resource/sn83045462/1963-08-04/ed-1/?sp=54&q=eiffel+tower&st=text&r=-0.371,-0.087,1.742,1.742,0</id>
+				<rel>1</rel>
+				<text>rigid as a ram
 rod, with the idea that you
 are photographing a per
 sonal view of the Eiffel
 Tower, Taj Mahal, the Na
 tion’s Capitol, etc.</text>
-      </result>
-      <result>
-	<id>https://www.loc.gov/resource/sn86075250/1963-07-12/ed-1/?sp=2&q=eiffel+tower</id>
-	<rel>1</rel>
-	<text>Eiffel oL
+			</result>
+			<result>
+				<id>https://www.loc.gov/resource/sn86075250/1963-07-12/ed-1/?sp=2&q=eiffel+tower</id>
+				<rel>1</rel>
+				<text>Eiffel oL
 Tower ^1
 COMPLETED IN 1889,
 THIS FAMOUS PARIS WSF
@@ -1400,16 +1393,16 @@ then some I F CJ
 Tower to heights in
 this community by
 banking with us.</text>
-      </result>
-    </results>
-  </topic>
-  <topic>
-    <id>https://guides.loc.gov/chronicling-america-daylight-saving</id>
-    <results>
-      <result>
-	<id>https://www.loc.gov/resource/sn85038411/1918-03-16/ed-1/?sp=15&q=daylight+saving+time</id>
-	<rel>1</rel>
-	<text>)AYLIGHT SAVING
+			</result>
+		</results>
+	</topic>
+	<topic>
+		<id>https://guides.loc.gov/chronicling-america-daylight-saving</id>
+		<results>
+			<result>
+				<id>https://www.loc.gov/resource/sn85038411/1918-03-16/ed-1/?sp=15&q=daylight+saving+time</id>
+				<rel>1</rel>
+				<text>)AYLIGHT SAVING
 TO GIVE WORKERS
 TIME FOR PLAY
 'hysicians Believe Move Will
@@ -1639,12 +1632,13 @@ great shortage in farm labor this
 summer and something must be done
 to offset the probable loss in pro
 duction of farm products. The hour
-saved for daylight every day in April.</text>
-      </result>
-      <result> 
-	<id>https://www.loc.gov/resource/sn83045433/1918-03-16/ed-1/?sp=1&q=act+change+changes+Clock+daylight+daylight-saving+HOURS+law+Saving+standard+time</id>
-	<rel>1</rel>
-	<text>DAYLIGHT SAVING TIMl
+saved for daylight every day in April.
+				</text>
+			</result>
+			<result>
+				<id>https://www.loc.gov/resource/sn83045433/1918-03-16/ed-1/?sp=1&q=act+change+changes+Clock+daylight+daylight-saving+HOURS+law+Saving+standard+time</id>
+				<rel>1</rel>
+				<text>DAYLIGHT SAVING TIMl
 3HOURS
 VASTED
 lYLJGHT
@@ -1733,11 +1727,11 @@ i shall be set ahead one hour. At 2
 j o'clock p. m., the last Sunday in Oc
 j tober of each year, they are to be
 i retarded one hour.</text>
-      </result>
-      <result>
-	<id>https://www.loc.gov/resource/sn83030431/1918-03-24/ed-1/?sp=58&q=daylight+saving+time</id>
-	<rel>1</rel>
-	<text>Daylight Saving Is Simplicity Itself
+			</result>
+			<result>
+				<id>https://www.loc.gov/resource/sn83030431/1918-03-24/ed-1/?sp=58&q=daylight+saving+time</id>
+				<rel>1</rel>
+				<text>Daylight Saving Is Simplicity Itself
 How Ben Franklin s Idea Conceived in 1784, Just Made Into Law Here, Will Affect
 Folks After Easter and Save Millions to the Nation
 10
@@ -2001,16 +1995,16 @@ the plan is in operation 2,000,000 days of
 extra work and time will be spent by
 these 500,000 commuters in the cultiva
 tion of gardens.</text>
-      </result>
-      <result>
-	<id>https://www.loc.gov/resource/sn88064305/1918-03-28/ed-1/?sp=1&q=daylight+saving+time</id>
-	<rel>0</rel>
-	<text></text>
-      </result>
-      <result> 
-	<id>https://www.loc.gov/resource/sn84026749/1918-03-30/ed-1/?sp=2&q=daylight+saving</id>
-	<rel>1</rel>
-	<text>Aat Hour Of Daylight Beginning Tomorrow Morning
+			</result>
+			<result>
+				<id>https://www.loc.gov/resource/sn88064305/1918-03-28/ed-1/?sp=1&q=daylight+saving+time</id>
+				<rel>0</rel>
+				<text></text>
+			</result>
+			<result>
+				<id>https://www.loc.gov/resource/sn84026749/1918-03-30/ed-1/?sp=2&q=daylight+saving</id>
+				<rel>1</rel>
+				<text>Aat Hour Of Daylight Beginning Tomorrow Morning
 te&mmMmauim amhmm kiimmmmmssmm y-irmmsmm
 …
 If you do so understand the daylight-saving-
@@ -2067,11 +2061,12 @@ necessary change for you then under,
 the daylight saving- law has been I
 made, and you have BO'further wor-l
 ries.</text>
-      </result>
-      <result> – doc 6
-	<id>https://www.loc.gov/resource/sn87057262/1918-03-30/ed-1/?sp=7&q=daylight+saving</id>
-	<rel>1</rel>
-	<text>f You Play Golf Just Think of the
+			</result>
+			<result> – doc 6
+	
+				<id>https://www.loc.gov/resource/sn87057262/1918-03-30/ed-1/?sp=7&q=daylight+saving</id>
+				<rel>1</rel>
+				<text>f You Play Golf Just Think of the
 Extra Daylight You'll Have to
 Chase Over the
 Green.
@@ -2230,16 +2225,16 @@ home guards and similar organiza
 tions, the members of which have oth
 er regular occupations, will be great
 ly facilitated.</text>
-      </result>
-      <result> 
-	<id>https://www.loc.gov/resource/sn83030193/1918-03-30/ed-1/?sp=3&q=daylight+saving</id>
-	<rel>0</rel>
-	<text></text>
-      </result>
-    <result>
-	<id>https://www.loc.gov/resource/sn84026749/1918-03-31/ed-1/?sp=8&q=daylight+saving&st=text&r=-0.292,-0.172,1.304,1.304,0</id>
-	<rel>1</rel>
-	<text>Daylight saving as war measure
+			</result>
+			<result>
+				<id>https://www.loc.gov/resource/sn83030193/1918-03-30/ed-1/?sp=3&q=daylight+saving</id>
+				<rel>0</rel>
+				<text></text>
+			</result>
+			<result>
+				<id>https://www.loc.gov/resource/sn84026749/1918-03-31/ed-1/?sp=8&q=daylight+saving&st=text&r=-0.292,-0.172,1.304,1.304,0</id>
+				<rel>1</rel>
+				<text>Daylight saving as war measure
 compulsory. It is ilmated .that
 the measure will rts-ult In a cut of
 M j nat,on., blI1
@@ -2325,11 +2320,11 @@ regard for the convenience f commerce and the existing. jucc.tion J
 points and division point 'of common .carriers engaged in commerce-J
 between the several States' and. with foreign nations, ana sucn oruer
 'may be modified, from time to time.</text>
-      </result>
-     <result>  
-	<id>https://www.loc.gov/resource/sn87057262/1918-04-01/ed-1/?sp=5&q=daylight+saving&st=text&r=0.21,0.022,0.465,0.465,0</id>
-	<rel>1</rel>
-	<text>Keoktik observed the daylight sav
+			</result>
+			<result>
+				<id>https://www.loc.gov/resource/sn87057262/1918-04-01/ed-1/?sp=5&q=daylight+saving&st=text&r=0.21,0.022,0.465,0.465,0</id>
+				<rel>1</rel>
+				<text>Keoktik observed the daylight sav
 ing law Sunday morning by turning
 the clocks ahead one hour. And every
 The earth Is approximately 24,000
@@ -2371,11 +2366,11 @@ the top an hour earlier each day. But
 the bird observed the new daylight
 savings law and met the worm half
 way as usual.</text>
-      </result>
-     <result>   
-	<id>https://www.loc.gov/resource/sn84026749/1927-09-23/ed-1/?sp=29&q=daylight+savings</id>
-	<rel>1</rel>
-	<text>The Daylight Savings Ghost
+			</result>
+			<result>
+				<id>https://www.loc.gov/resource/sn84026749/1927-09-23/ed-1/?sp=29&q=daylight+savings</id>
+				<rel>1</rel>
+				<text>The Daylight Savings Ghost
 Again Rears Its Head
 The ghost of daylight savings once more bobs up.
 Although Congress refused to enact a daylight-savings law
@@ -2419,11 +2414,11 @@ not get the sleep they were accustomed to and should have.
 The advantages of daylight savings, as viewed by its work
 ings here, were far less than the disadvantages, which in
 cluded Upset domestic conditions and considerable chaos.</text>
-      </result>
-      <result> 
-	<id>https://www.loc.gov/resource/sn83045499/1949-04-23/ed-1/?sp=1&q=daylight+savings</id>
-	<rel>1</rel>
-	<text>Daylight Saving Time
+			</result>
+			<result>
+				<id>https://www.loc.gov/resource/sn83045499/1949-04-23/ed-1/?sp=1&q=daylight+savings</id>
+				<rel>1</rel>
+				<text>Daylight Saving Time
 at 2 A.M. Sunday
 NEW YORK, April 23. UP)—About
 50,000.000 Americans will be cheat
@@ -2458,11 +2453,11 @@ f abandoned it this year. They in
 clude Los Angeles, San Francisco,
 Detroit, Chattanooga and Nash
 ville.</text>
-      </result>
-      <result>  
-	<id>https://www.loc.gov/resource/sn84020662/1949-04-25/ed-1/?sp=4&q=daylight+savings&r=-0.059%2C0.327%2C1.423%2C0.757%2C0&st=text</id>
-	<rel>1</rel>
-	<text>Americans got cheated out of
+			</result>
+			<result>
+				<id>https://www.loc.gov/resource/sn84020662/1949-04-25/ed-1/?sp=4&q=daylight+savings&r=-0.059%2C0.327%2C1.423%2C0.757%2C0&st=text</id>
+				<rel>1</rel>
+				<text>Americans got cheated out of
 an hour’s sleep Saturday night
 with the advent of daylight sav
 ings time. Most of the big cities
@@ -2493,16 +2488,16 @@ j abandoned it this year. They in
 clude Los Angeles, San Francisco,
 Detroit, Chattanooga and Nash
 ville.</text>
-      </result>
-      <result>
-	<id>https://www.loc.gov/resource/sn88064305/1919-08-28/ed-1/?sp=1&q=daylight+savings&st=text&r=-0.316,0.111,0.981,0.981,0</id>
-	<rel>0</rel>
-	<text></text>
-      </result>
-      <result>  
-	<id>https://www.loc.gov/resource/sn84022396/1931-04-16/ed-1/?sp=13&q=daylight+savings&st=text&r=-0.256,-0.032,1.511,1.511,0</id>
-	<rel>1</rel>
-	<text>PREDICTS DAYLIGHT
+			</result>
+			<result>
+				<id>https://www.loc.gov/resource/sn88064305/1919-08-28/ed-1/?sp=1&q=daylight+savings&st=text&r=-0.316,0.111,0.981,0.981,0</id>
+				<rel>0</rel>
+				<text></text>
+			</result>
+			<result>
+				<id>https://www.loc.gov/resource/sn84022396/1931-04-16/ed-1/?sp=13&q=daylight+savings&st=text&r=-0.256,-0.032,1.511,1.511,0</id>
+				<rel>1</rel>
+				<text>PREDICTS DAYLIGHT
 SAVING WON'T LAST
 Chief of Weather Bureau Say* Ad
 vancad Time i* a Nui*ance
@@ -2550,8 +2545,7 @@ of other than Eastern Stamlaid
 Time. Two cities in New Hampshire
 and one in Vermont observe day
 light savings.</text>
-      </result>
-    </results>
-  </topic>
+			</result>
+		</results>
+	</topic>
 </topics>
-
