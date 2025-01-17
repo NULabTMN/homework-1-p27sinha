@@ -3,12 +3,12 @@
     <id>https://guides.loc.gov/chronicling-america-boston-subway</id>
     <results>
       <result>
-	<id>https://www.loc.gov/resource/sn84024441/1897-03-04/ed-1/?sp=5&q=Boston+Dead+dead+explosion+flame+gas+Gas+Subway&st=text&r=0.239,0.386,0.463,0.493,0</id>
+<id>https://www.loc.gov/resource/sn84024441/1897-03-04/ed-1/?sp=5&ampq=Boston+Dead+dead+explosion+flame+gas+Gas+Subway&ampst=text&ampr=0.239,0.386,0.463,0.493,0</id>
 	<rel>0</rel>
 	<text>/</text>
       </result>
       <result>
-	<id>https://www.loc.gov/resource/sn83030214/1897-09-19/ed-1/?sp=32&q=BOSTON+Boston+BOSTONS+SUBWAY+subway</id>
+	<id>https://www.loc.gov/resource/sn83030214/1897-09-19/ed-1/?sp=32&ampq=BOSTON+Boston+BOSTONS+SUBWAY+subway</id>
 	<rel>1</rel>
 	<text>UNDERGROUND TRAVEL.
 T1IK BOSTON SUBWAY PARTLY COM?
@@ -65,7 +65,7 @@ broken for the subway in April, 1805, twenty
 Bine month- ago.</text>
       </result>
       <result>
-      <id>https://www.loc.gov/resource/sn95079490/1897-10-23/ed-1/?sp=7&q=BOSTON+SUBWAY</id>
+      <id>https://www.loc.gov/resource/sn95079490/1897-10-23/ed-1/?sp=7&ampq=BOSTON+SUBWAY</id>
 	<rel>1</rel>
 	<text>
         THE BOSTON SUBWAY
@@ -156,8 +156,7 @@ ble the cost will bo about $1,000,000 less
 than that sum.
 	</text>
       </result>
-      <result>    -- doc 4 
-      <id>https://www.loc.gov/resource/sn83030272/1897-12-15/ed-1/?sp=3&q=BOSTON+Boston+SUBWAY+subway&st=text&r=-0.026,0.088,0.323,0.344,0</id>
+      <result>    <id>https://www.loc.gov/resource/sn83030272/1897-12-15/ed-1/?sp=3&ampq=BOSTON+Boston+SUBWAY+subway&ampst=text&ampr=-0.026,0.088,0.323,0.344,0</id>
 	<rel>1</rel>
 	<text>
         BOSTON'S UNUSED SUBWAY.
@@ -187,7 +186,7 @@ jkVM tense Is less than ft mile In length, and the
 KS farts which are under construction or proposed
 R M Would add only about another mile to the tun
 Hk wr Bet, There lr, perhaps, no finer specimen of
-Jl&B passenger tunnel work any whero In the world,
+Jl&ampB passenger tunnel work any whero In the world,
 aBfYS n ls doubtful -f anymore perfect tunnel
 HtjH could Deconstructed.
 B9p The tunnel runs under Tremont street, and
@@ -238,14 +237,14 @@ nted to devise a suitable means to relieve the
 Station.
 	</text>
       </result>
-      <result>    -- doc 5 
-      <id>https://www.loc.gov/resource/sn82016413/1901-07-24/ed-1/?sp=6&q=Boston+subway&st=text&r=-0.249,-0.075,1.499,1.499,0</id>
+      <result>
+      <id>https://www.loc.gov/resource/sn82016413/1901-07-24/ed-1/?sp=6&ampq=Boston+subway&ampst=text&ampr=-0.249,-0.075,1.499,1.499,0</id>
 	<rel>0</rel>
 	<text>
 	</text>
       </result>
-      <result>    -- doc 6 
-      <id>https://www.loc.gov/resource/sn83030214/1903-06-21/ed-1/?sp=42&q=BOSTON+subway&st=text&r=-0.302,-487.696,1.604,976.836,0</id>
+      <result>
+      <id>https://www.loc.gov/resource/sn83030214/1903-06-21/ed-1/?sp=42&ampq=BOSTON+subway&ampst=text&ampr=-0.302,-487.696,1.604,976.836,0</id>
 	<rel>1</rel>
 	<text>
 	THE MARCH OF IMPROVEMENT IS FAST OBLITERATING MANY OF BOSTONS MOST FAMOUS OLD LANDMARKS
@@ -285,26 +284,26 @@ itself is to be transformed into a tunnel station
 connecting with a subway line also. 
 	</text>
       </result>
-      <result>    -- doc 7 
-      <id>https://www.loc.gov/resource/sn84020274/1904-05-08/ed-1/?sp=57&q=New+subway+York&r=-0.957,-0.491,2.915,1.552,0</id>
+      <result>
+      <id>https://www.loc.gov/resource/sn84020274/1904-05-08/ed-1/?sp=57&ampq=New+subway+York&ampr=-0.957,-0.491,2.915,1.552,0</id>
 	<rel>0</rel>
 	<text>
 	</text>
       </result>
-      <result>    -- doc 8 
-      <id>https://www.loc.gov/resource/sn88085947/1904-10-27/ed-1/?sp=1&q=NEW+OPENED+SUBWAY+YORK&r=0.537,0.618,0.201,0.107,0</id>
+      <result>
+      <id>https://www.loc.gov/resource/sn88085947/1904-10-27/ed-1/?sp=1&ampq=NEW+OPENED+SUBWAY+YORK&ampr=0.537,0.618,0.201,0.107,0</id>
 	<rel>0</rel>
 	<text>
 	</text>
       </result>
-      <result>    -- doc 9 
-      <id>https://www.loc.gov/resource/sn87078082/1910-12-07/ed-1/?sp=3&q=Boston+Subway+subway+suicide+SUICIDE&r=-0.203,0.2,0.541,0.288,0</id>
+      <result>  
+      <id>https://www.loc.gov/resource/sn87078082/1910-12-07/ed-1/?sp=3&ampq=Boston+Subway+subway+suicide+SUICIDE&ampr=-0.203,0.2,0.541,0.288,0</id>
 	<rel>0</rel>
 	<text>
 	</text>
       </result>
-      <result>    -- doc 10 
-      <id>https://www.loc.gov/resource/sn97067598/1919-07-21/ed-1/?sp=1&q=Boston+BOSTON+Subway&r=-0.093%2C0.107%2C0.996%2C0.53%2C0&st=text</id>
+      <result>  
+     <id>https://www.loc.gov/resource/sn97067598/1919-07-21/ed-1/?sp=1&ampq=Boston+BOSTON+Subway&ampr=-0.093%2C0.107%2C0.996%2C0.53%2C0&ampst=text</id>
 	<rel>1</rel>
 	<text>
 	Traffic Resumed On Boston
@@ -334,37 +333,2225 @@ she decided to cali him and lecciving
 no response to her summons entered
 the bedroom.
 	</text>
+      </result>  
+       <result>  
+    
+<id>https://www.loc.gov/resource/sn87065526/1963-07-25/ed-1/?sp=3&q=boston+subway&r=-1.02,-0.028,3.04,1.618,0</id>
+	<rel>0</rel>
+	<text>
+	</text>
+      </result>
+      <result>  
+    
+<id>https://www.loc.gov/resource/sn79000083/1961-11-18/ed-1/?sp=3&q=boston+subway&st=text&r=-0.297,-0.08,1.593,1.593,0</id>
+	<rel>0</rel>
+	<text>
+	</text>
+      </result>
+      <result>  
+    
+<id>https://www.loc.gov/resource/sn83004278/1961-09-27/ed-1/?sp=4&q=boston+subway&st=text&r=0.655,0.339,0.203,0.216,0</id>
+	<rel>0</rel>
+	<text>
+	</text>
+      </result>
+      <result>  
+    
+<id>https://www.loc.gov/resource/sn86075229/1955-02-24/ed-1/?sp=2&q=boston+subway&st=text&r=-0.262,-0.123,1.524,1.524,0</id>
+	<rel>1</rel>
+	<text> The first subway opened in
+Boston in 1897.
+	</text>
+      </result>
+     <result>  
+    
+<id>https://www.loc.gov/resource/sn85053044/1952-01-04/ed-1/?sp=4&q=boston+subway&st=text&r=0.211,0.332,0.705,0.705,0</id>
+	<rel>0</rel>
+	<text>
+	</text>
+      </result>
+    </results>
+  </topic> – TOPIC 2(10 + 5)
+  <topic>
+    <id>https://guides.loc.gov/chronicling-america-eiffel-tower/selected-articles</id>
+    <results>
+      <result>
+	<id>https://www.loc.gov/resource/sn83025121/1889-04-02/ed-1/?sp=8&q=Eiffel+Tower+France+French+Paris+Worlds+Fair&st=text&r=-0.283,-0.078,1.566,1.566,0</id>
+	<rel>1</rel>
+	<text>THE EIFFEL TOWER
+A Msht and Sensation for lisitor to
+1arls
+In view of the assurance of a
+creditable representation of Hawaii
+both in productions and person
+agesat the Universal Exhibition of
+this year in Paris a few facts rela
+tive to the EiffeUower culled from
+a late English paper may be of local
+interest
+The tower is named after its pro
+jector Mr Eiffel now President of
+the French Association of Engineers
+He is famed in part -for the design
+ing of a great bridge at Bordeaux
+Although the Eiffel tower was orig
+inally the conception mainly of an
+ambition likened to that of Ameri
+cans by the English paper referred
+to for having the highest structure
+in the world it was also early as
+sumed that it would have uses in the
+interest of science It is claimed
+and anticipated that it will be very
+raluable for observatory purposes
+owing to the perfect clearness of the
+air at its summit
+The tower is to be one thousand
+feet in height At the date of the
+description here drawn upon it had
+attained an altitude of 738 feet or
+162 feet higher than any other build
+ing on earth There were 180 men
+employed then in its construction
+100 preparing the lifts at the base
+and 80 riveting the perfectly fitted
+parts at top To avoid fatiguing the
+workmen aloft in descending several
+times a day for food a restaurant is
+fitted up at a height of about 400
+feet There are to bo four perman
+ent restaurants for the refreshment
+of visitors on the first stage of the
+tower</text>
+      </result>
+      <result> 
+	<id>https://www.loc.gov/resource/sn91068084/1889-04-26/ed-1/?sp=5&q=Eiffel+Tower+Paris+Exhibition+1000+Feet+High+France+French+Worlds+Fair&st=text&r=-0.335,-0.083,1.669,1.669,0</id>
+	<rel>1</rel>
+	<text>NEARLY 1000 FEET HIG&
+The Great Eiffel Tower at the
+Paris Exposition.
+How the Colossal Structure, Just
+Completed, was Erected.
+The great Eiffel tower at the Paris Exhi
+bition has just been completed, and a de
+scription of the colossal structure, with an
+account of the way it was built, and a sketch
+of its constructor, will bo appropriate at this
+time. It is scarcely necessary to say that the
+U
+mm
+
+Cologne
+Cathedral,
+511 ft.
+The Eiffel Tower,
+9S4 ft. The Great
+Pyramid,
+480 ft.
+Eiffel tower is by far the highest structure in
+the world. It presents a decidedly unique ap
+pearance, too in general outline not unlike a
+stack of four gigantic muskets with their
+butts well and solidly spread and their bay
+onets joining at their tips.
+The Eiffel tower stands in the Champ de
+Mars, almost on the left bank of the river
+Seine, just in the rear of the Quai d'Orsay,
+and in fact a part of its foundation is sunk
+through an old arm of the river, which lias
+been filled in these many years. Its base
+covers a plot of ground 328 feet square, or
+nearly two and a half acres in extent.
+GUSTAVF. EIFFEL.
+It Ls really at the base a group of four tow
+ers, each nearly fifty feet square, placed at
+the corners of the plot of ground, and in
+clining toward each other as they rise at an
+angle of fifty-four degrees. Each tower con
+sists of four columns, bound together by
+trusswork, and each column rests on a
+masonry pier which is so built that the weight
+of the column rests upon it squarely and not
+at an ancle.
+As the tower is 0S4 feet high. it will be
+seen that the matter of providing a solid
+foundation was one of great importance.
+There was a lot of boring and digging befon
+the spot upon which the tower stands was
+finally selected.
+The foundation rests upon a thick stratum
+of sand and gravel. It may be well to say.
+for the benefit of those who think sand is a
+rather treacherous sort f ground, that a bed
+of sand and gravel, away under ground, is
+pretty solid stuff. One of the towers of the
+Brooklyn Bridge rests on that sort of base.
+The foundations of the two piers of the Eiffel
+tower farthest from the Seine rest on sand
+and gravel about twenty-five feet below the
+surface of the ground. These foundations
+were laid in open excavations, and consist
+first of great solid platforms of beton, six
+feet thick, and next of four stone piers which
+rise to the surface to receive the iron col
+umns. The foundations for the two piers nearest
+the river were not so easily laid. It was
+necessary to go thirty-five feet below the
+surface of the ground, end this was sixteen
+feet under water. So caissons had to be
+used, as they were in building the Brooklyn
+Bridge piers.
+A caisson is in effect simply an enormous
+iron box, without any cover, turned upside
+down. The method of using it is to dig the
+earth out from under it and allow it to
+gradually settle as the excavation pro
+gresses, meanwhile building the pier on top.
+When the required depth is reached the cais
+a .n itself is filled up with the beton, and it
+forms the bottom layer of it a foundation.
+A shaft is left running through the pier
+auove for entrance and exit as the work goes
+on, and the air in the caisson and shaft is
+compressed to whatever is necessary to keep
+the water out of the bottom. It is the prin
+ciple of the diving bell modified.
+Work on the foundations was begun on
+January 28, 1887, and at the end of June they
+were completed. Then began the labor of
+setting up the innumerable pieces of iron of
+which the tower is composed, and it went on
+at a vapid rate, for each individual piece
+came from the works of M. Eiffel, at Leval-lois-Pere
+cut to its exact dimensions, fitted
+and drilled, so that no modification was neces
+sary at the place of operations. Up to a
+height of about fifty feet the workmen re
+quired no scaffolding to work upon, as each
+pier supported itself, although each leaned
+toward the others. Then an artificial support
+had to le provided, as above that height, un
+til the first platform was reached, the center
+of gravity of each pier would fall outside of
+the base.
+And so piece by piece the towers grew,
+and at length reached a height of 140 feet.
+Then four enormous horizontal trusses were
+put in place to connect the four piers. These
+were nearly 140 feet long and weighed a
+good many tons, and hi order to place them
+in position it was necessary to erect an ex
+tensive false work, or scaffolding. "When
+these trusses were in position, and the con
+necting beams to form a flooring were in
+place, the workmen ha1 a great solid plat
+form, nearly 15U feet above the ground and
+upward of 1 oJ feet square, to work upon.
+These four inclined piers and the four big
+connecting trusses form the solid groundwork
+of the tower. There is nothing particularly
+unique in the detail of construction. The
+work is simply a system of trusses and braces,
+in which the material is so placwd as to make
+a strong and light structure. The four great
+arches which rise between the piers, imme
+diately under the great horizontal trusses,
+are largely ornamental in character. They
+serve to round off what would otherwise be
+an angular outline, but do not support any of
+the weight of the structure.
+Above the lower platform two four-corner
+piers incline toward each other at a
+sharper angle. The iron columns are lighter
+and the spaces in the system of bracing are
+larger. High above the first platform, nearly
+400 feet from the ground, a second series of
+horizontal trusses binds the four piers to
+gether and forms the basis for a second land
+ing. These two platforms are glorious places
+St. Peter's,
+433 ft. Rouen
+Cathedral,
+470 ft.
+Statue of Wash- Column
+Liberty, ington Vendome,
+301 ft. Monument, 148 ft.
+500 ft.
+from which to view the city of Paris. They
+are so large that even very timid persons
+standing on them will lose all fear. The
+lower one is nearly half an acre in extent
+while the upper one is about one-third that
+size. From the platform a view of the coun
+try for forty miles around may be obtained.
+Above the second platform the four corner
+piers gradually approach each other and at
+length unite in one pier, at the top of which,
+nearty a fifth of a mile from the ground,
+there is a covered observatory, and above
+this rises a slender mast. Doubtless many
+thousand people will see Paris and ever so many
+square miles of surrounding country from the
+observatory during the summer. They will
+not have to walk up, for a gigantic elevator
+runs up through one of the piers to the very
+top. This elevator is of peculiar construction,
+for the carriage or truck, travels upward on
+a spiral track, while the car itself rises
+vertically, or rather as nearly vertically as
+the angle of the pier will allow.
+While the Eiffel tower was a stupendous
+conception, and will stand as completed
+the marvel of modern engineering, no new
+principles are involved in its construction.
+In fact, to an engineer, the most wonderful
+thing about the tower is its simplicity. The
+way for the Eiffel tower, both in conception
+and execution, was paved, after a fashion,
+by the work on the Garobit viaduct and the
+Taraes bridge, both of which were built by
+Eiffel. In fact, the construction of bridges
+and viaducts, without the use of scaffolding or
+false work, by making the several parts
+balance themselves as the work progresses,
+owes much to this French engineer.
+Gustavo Eiffel is a master of construction.
+It is said of him that he combines within
+himself the practical knowledge of the Eng
+lish engineer, the audacity of the American
+and the science and theories of the French
+man. He was born at Dijon, France, in 1S32,
+and was educated at the Central School of
+Sciences and Arts. He it was who first made
+practical use of compressed ah in cassions in
+the building of bridge foundations, in the
+erection of the great bridge at Bordeaux.
+TOP OF THE TOWER.
+M. Eiffel has been a busy man, indeed, these
+many years, but he found time, when the
+statue of Liberty Enlightening the World was
+to be set up in New ork Harbor, to design
+the skeleton framework which support the
+gigantic figure and at the same time firmly
+holds it to the granite pier on which it stands.
+A glance at the illustration will show to
+what extent the Eiffel tower overshadows all
+the famous tall structures of the world. In
+comparison with its 984 feet Cheops is dwarfed
+at 40. The Washington Monument is little
+less than 500 feet high, and the point of .he
+flame of Liberty's torch in New- York Harbor
+rises barely 300 feet in the air.
+The fees for ascending the Eiffel tower are
+five francs (1) to the cop, three francs
+(sixty cents) to the second platform an 1 two
+francs (forty cents) t. the first. </text>
+      </result>
+      <result> 
+	<id>https://www.loc.gov/resource/sn87060190/1889-05-07/ed-1/?sp=4&q=Eiffel+Tower+Paris+France+French+Expo+Exhibition+Worlds+Fair</id>
+	<rel>1</rel>
+	<text>BASE OF EIFFEL TOWER,
+ia tho middlo, and is surrounded by build
+ings containing exhibitions of flue arts,
+boUos lettres, tho liberal arts, and various
+departments of industry.
+Those buildings stand on parallel lines and
+ore crossed in their axis by a high gallery
+manaounted by a doma which leads to th
+hatt of machinery. Tho cost of tho build
+ings in tho Champs do Mars, exclusivo of tho
+Mffel tower, has been about (4,000,000, and
+it is intended that they shall remain as per
+aaaent structures. The total outlay author
+ised for tho entire exposition U 38,600,000, of
+wttch $000,000 is hold aa a rcerve fund.
+The earthworks required a removal of
+700,000 cubic foot. Tke drains and water
+pipes of the Camps do Mars were lengthened
+hf about two miles, and more than 40,009
+ems of iron and steel wero u&ed by the
+holders. The hall of machinery is 1,309 feet
+long and 150 feet high, covered with a roof
+f iron, wood and glass, having a span of
+380 feet in tho clear, the greatest ever at
+tempted. A gullory extends around tke in
+terior for the display of tho lighter classes of
+machinery and from end to end run four un
+ferofcen linos of shafting for distributing the
+Beotivo power. Tho powor is dorived from a
+proup of steam engines placed in one of
+the touts, tho bollors of which transform
+into steam forty tons of wator per hour.
+The total energy is about 400 horse power.
+TJio chief architectural feature of the ex
+position is, of course, tho Eiffel tower, as
+wore the Crystal Palace at London In 1851,
+the iron lighthouse at Paris in 1807, tho groat
+THE EIFFEL TOWZ& VBOX THE BEINK
+rotunda at Vionna in 1873, and the Trocadero
+palace at Paris in 1878. This is the loftiest
+structure eyer rahedjjy Iman, being about
+064 feet high. The Washington monumont
+now stands second, 55.5 feet. The Cologno
+cathedral is 501 feot. Tho tower of Babol
+was probably CS0 high. Moro than 7,000
+tons of metal were us?d in building tho
+Eiffel tower. Tho first sod was turned in
+excavation for its foundation on January
+28, 1887, and the whole work was completed
+on March 31, 1889.</text>
+      </result>
+      <result>
+	<id>https://www.loc.gov/resource/sn85033162/1900-05-18/ed-1/?sp=3&q=Paris+Exposition&st=text&r=0.311,-0.049,0.165,0.176,0</id>
+	<rel>0</rel>
+	<text></text>
+      </result>
+      <result>  
+	<id>https://www.loc.gov/resource/sn85032018/1894-01-31/ed-1/?sp=15&q=Eiffel+Tower+Paris+France+French+Worlds+Fair+1900+Exhibition&st=text&r=0.049,0.411,0.455,0.485,0</id>
+	<rel>1</rel>
+	<text>tj Happily all Paris is not so pessi
+mistic as my friend, and the architects
+are busy with their plans. All the
+ground comprised in the exhibition of
+'89 is to be included, as well as the por
+tion of Cour la Heine that will inclose
+the Palais 1' Industrie and its surround
+ing gardens. We are to have an addi
+tional bridge across the Seine which
+will open a vista from the Place de la
+Concorde straight through to the palace
+of electricity, which is to be the cen
+tral feature. Our rulers are greatly
+bored about the Eiffel tower; but as
+the concession was granted for twenty
+years it has got to stand; but the arch
+itects say consolingly that the 7 will
+try and hide it as much as possible.
+The sight of it vexes poetio souls,
+and Francois Coppee, the author, who
+is, by way of being, sthetio, wrote
+a formal protest to the government at
+the time of its erection to request that
+the plan should not be carried out on
+the ground that the Eiffel tower, being
+ugly and ungainly, and furthermore
+being visible from his windows, inter
+fered with his flow of inspiration.
+However, the tower was built never
+theless, and, although we are deadly
+tired of seeing it about, Coppee con
+tinues to write, so evidently his flow
+ol inspiration was only impeded and
+not permanently plugged up. Further
+more, we are to have a branch exhibit
+at Versailles, which will rouse that
+sleepy little town from its chief ou
+pation of listening to the grass grow
+ing in the streets. In the splendid
+park of Versailles, on either side of
+the grand canal, is to be the retro
+spective history of gardens throughout
+the ages.</text>
+      </result>
+      <result>
+	<id>https://www.loc.gov/resource/sn83040198/1899-02-03/ed-1/?sp=7&q=Eiffel+Tower+France+French+Paris+Exhibition+Worlds+Fair+Ladder+Clouds</id>
+	<rel>1</rel>
+	<text>A LADDER FROM THE CLOUDS
+Bach Will Be the Appearance of the
+Eiffel Tower of Parts When
+Painted.
+The Eiffel tower, say the gentlemen
+of esthetic temperament, must go.
+The Eiffel tower, say the gentlemen
+who know the law, must stay for some
+years yet. The Eiffel tower, say the
+esthetes. Is ugly, discouraging to the
+eye and an all-round nightmare. "Scaf
+fold I cries the carper. "Down with it
+It has no place in esthetic Paris,"
+"Impossible! objects the law. "When
+the company took a lease of it they
+got it for a term of 20 years.. You
+can't break the lease, and the time is
+nowhere up.
+"But, urges the esthete, "look at
+the shape, look at the size, look at the
+color! Is not the whole thing hideous"?
+If we can't destroy it we can at least
+improve it and lessen the offense to
+our senses."
+And so the Eiffel tower is going to be
+metamorphosed. It has. been in color
+a reddish brown, and it is the color to
+which the gentlemen with the fine ideas
+have long objected. They have called
+the tower a shameless creation and re
+peatedly ridiculed the commonplace
+tone of hue. And now they have pre
+v ailed, and the lower is going to be a
+thing of beauty, so far as that goes.
+Silver white is the color agreed upon,
+and it is urged that when the army of
+workmen have finished their painting
+the huge structure will look really not
+so bad after all. Ilalf a hundred men
+will be employed on the building, work
+ing hard every day for two months.
+And 50,000 kilogrammes of paint will
+be used up before the Eiffel tower has
+finally lost its brickdust coat and finds
+itself arrayed in the poetic covering
+which the esthetes have advised. Two
+coats of paint will be applied and the
+brushes will be busy.
+It has been objected that the tbwer
+has always had the appearance or hav
+ing been cast up in inartistic form by
+a careless earth. The tower has seemed
+to rise awkwardly from the ground,
+the critical have said. Why not give
+it such an arrangement as would sug
+gest the idea of dropping from the
+clouds? That would be a pleasing fan
+cy, and if the huge tower were lighted
+at regular intervals it would present a
+picture as of a brilliant creature of the
+clouds, and all the world would be lost
+in admiration. These plans were sug
+gested when the exposition of 1900 were
+tinder discussion, and they have been
+adopted. A ladder from the clouds.
+That was tbe idea. 'And with that the
+esthetic taste, was forced to be sat
+isfied.
+The Eiffel tower has long been the
+universal bed lamp of Paris. The great
+candle in the top would be sadly miss-d,
+even by those who have fought agair.&t
+the continuance of the structure. That
+ever-swaying lantern is one of the won
+ders of the French capital. Y. Her
+aid.
+Kicked All Around.
+A correspondence is being published
+In the Times on the subject of "French
+Feeling Toward Englishmen." A Mr.
+Jackson has written to that paper to
+repeat that at Caen recently a student
+went out of his way to publiely insult
+Great Britain. As a boy I was first for
+some years at school in Paris.</text>
+      </result>
+      <result> 
+	<id>https://www.loc.gov/resource/sn83030214/1900-05-20/ed-1/?sp=43&q=Feet+Tower+Eiffel+Paris+France+French+Worlds+Fair+Exhibition&st=text&r=0.213,0.783,0.517,0.551,0</id>
+	<rel>1</rel>
+	<text>way from the Eiffel Tower
+Ml M
+•i" first ha'.f c* the left line is the Palace of
+H;srs and Metallurgy. Like all the other build
+fc?T= en the Charrr de Mars, it is constructed
+ti iron, cover*"? with wooden laths and faced
+r
+with plastf r. Th-> ornamentation is extremely
+_.
+light, white being the prevailing tone. The dome
+consists of an imrr.vns-; tiara resplendent in imi
+taticn precious stune:-— a novel and nappy form
+cf decoration. The second half, leading to the
+Pu.iac-e of Electricity, is occupied by the Palace
+tf Threads and Textile Fabrics. It consists of a
+!:r.e of raJ>'-i arches, forming the outside of a
+covered gallery, given up to restaurants, some
+thing similar to the constructions that were here
+in the same place in l vV A fine central porch
+It is
+I
+_ iring
+_.
+th that of Let I i
+ad In
+
+En-
+ration is in good
+icted
+th< rin all their
+these two
+THE GREAT FOUNTAIN.
+At the end of the grounds and joining these
+t*o wisp, is the Palace of Electricity, preceded
+ty the EC'Cum-nta! fountain, or Chateau d'Eau.
+The latter is one of the principal decorative sub
+>-r.s of the Champ de ilars. It is composed of
+vast semicircular alcove LOB f eel wide by 30
+i«t deep, containing a series of immense basins
+iJTanged in amphitheatre form, from which
+Eiects cf water £cw and fall in cascades into a
+T« larger basin at Coot cf the fountain. The
+quantity cf water employed is at the rate of
+*^*i,*Mi litres _.. bear. la the lar^e basin is
+NEW YORK TRIBUNE tout HTRATED BUPPLBMENT.
+HumanuJ%T UP r32r 32 feet hi h representing
+to the F,,; db Fro^" marching onward
+the cenfr^ o™ A l!POttO has been bu »t behind
+the central cascade, accessible to visitors.
+THE PALACE OF ELECTRICITY.
+Immediately behind the Chateau d'Eau is the
+Palace of Electricity, which l a incontestably the
+chief and most interesting portion of the whole
+exhibition. The chief aim in its construction
+has been to hide the straight plainness of the
+Gallery of Machines of ISS9. therefore the roof
+has been raised to the height of 202 feet, form-
+IB* a crown to the edifice. its front, which is In
+repousse zinc worked like lace, consists of nine
+bays provided with multicolored decorations.
+transparent ceramics and stained glass, in har
+moniously blended tones. The wings of the pal
+ace, JIM feet by 131 feet, contain the machines
+which supply electrical power to the exhibition.
+The building Is illuminated by 5.000 variegated
+PAVILIONS AT THE FEET OV THE EIFFEL TOWER.
+S arc lamps with col
+four arc lamps with re</text>
+      </result>
+    <result>
+	<id>https://www.loc.gov/resource/sn90059523/1903-10-25/ed-1/?sp=24&q=Eiffel+Tower+Doomed+Rocks+Wind+Paris+France+French+Gustav</id>
+	<rel>1</rel>
+	<text>THE Eiffel Tower must come down.
+The authorities of Paris have so decreed.
+This iron spire, the tallest structure in the
+world, and the engineering feat of the last cen
+tury, \.i regarded as a dangerous plaything.
+When a high wind blows from the south the great
+ribbed structure trembles like a frightened horse.
+But let a stiff breeze come bowling down from the
+north and the tower vibrates until the china rattles in
+the cafes, and to those in the observatory at the apex the
+sensation is that of a ship fossed by heavy seas.
+The fact that the tower is more'sensitive to a wind
+from the north than from the south is regarded as proof
+of the structural weakness, and from this springs the
+theory of danger of collapse.
+It is almost twenty years since Gustav Eiffel began
+the work of building his sky-scraper. The mark of com
+pletion was set for 1889, Exposition year, and on March 31
+of that year the tower was thrown open to the public. It
+wa« the leading attraction of the big show, and it has
+not since ceased to attract attention and coin.
+The cost of building the structure was more than
+$1,000,000. Of that amount the French government appro
+priated $29L',000. Eiffel supplied the remainder, trusting
+for his reimbursement to the receipts from admission fees
+and other sources.
+In this he was not uisappolnted, as the profits of the
+first year were almost sufficient to make him whole.
+The lease held by Eiffel will expire in next March, and
+then, if the present plans of the city fathers are realized,
+the work of razing the unique structure will be started.
+The plan is to sell the tower to the highest bidder, the
+purchaser to be given a certain time in which to remove
+what Paris regards as almost a public menace.
+Except as a curio and an Investment for its builder,
+the tower has been somewhat of a failure.
+Much was expected in the scientific world from the
+metaphorical observatory, with its physical and biological
+laboratories, all 954 feet above ground. But little has
+come of this, the enterprise having taken on a rather
+commercial aspect.
+The Eiffel Tower will ever be considered a colossa*
+feat of engineering.
+Tlhese Stria! Ihxean F®ds ire nsudhes hM
+.'v_V- Ir 'mJf.A?j -i?'^^t Vk^T*i^*v*
+THE beanstalk up which Jack, the Giant Killer,
+climbed to fame has been sung and pictured until
+even little Emma and Annie and Jeannette and
+Joe, sprawled there on the nursery floor, can tell
+of its sturdy trunk, of its stout, ladder-like branches, of
+Its leathery leaves, which the eager hands of their hero.
+Jack, could not crush, though he clutched them ever so
+tightly.
+They can tell you that this fabled beanstalk was so
+tall that "Oo! you jest couldn't see the top uv it, so you
+couldn't."
+DRINKERS IN TWO CLASSES
+==Mlsery and L,Mxtuiry==
+BOTH CLAIM THEIR VICTIMS OF LIQUOR
+LONDON, August 17.
+WOMEN who drink are classified by the experts
+into two sections—misery drinkers and luxury
+drinkers.
+Speaking broadly, the misery drinkers come
+from the very poor, the luxury drinkers from the rich.
+But whatever the cause which first sends them to drink
+the ultimate results are the same—a falling birth-rate, a
+rising death-rate among infants and the physical degen
+eration of the race.
+Dr. Claye Shaw, a recognized authority, made it clear,
+in discussing the matter recently, that the evil is not con
+fined to the lowest order of society.
+"My experience," he said, "is that among women of
+fashion, women who have nothing to do but to amusa
+themselves, there l a a growing tendency to take alco
+holic stimulants, and the ill effects of that, both upon the
+•women themselves and upon their children, are often very
+■erlous
+"There is a great deal of private drinking. I know
+towns where it is a common thing for young girls to go to
+a private counter in a confectioners shop and take a
+glass or two of champagne or a glass or two of port.
+"There are confectioners' shops in London where wo
+men of position do the same thing. And at home there is
+•adly too much nipping of spirits in private. It does not
+etop at that. Many women drink cologne, many use mor
+phia.
+"Jt is the result of high living, and an emotional,
+unnatural, excited way of life. All this leads to personal
+demoralization and the weakening of character. Some
+times it is a step towards the divorce court.
+"The trouble is that the women have nothing to do
+nothing to occupy their minds. The happiest marriages
+The lower section consists of four columns resting
+upon masonry 85 feet square and 30 feet high. These
+curve toward each other, so that they unite as a slnglo
+column 620 feet above the ground.
+PARIS, October 10.
+There are platforms at the 189, 380 and 906 feet levels,
+reached by elevators as well as by Btairs. Beyond the
+third platform a spiral staircase, which is not open to the
+public, ascends to the top of the tower.
+On the first platform, which has a floor space of 38,000
+Bquare feet, or nearly an acre, there were four restau
+rants at the time of the Exposition, and refreshments are
+Btill served there.
+The view from the top of the tower extends eight y
+flve miles on a clear day. At night a searchlight gleams
+from the eminence.
+Seven thousand tens of iron were used in building the
+Eiffel Tower.
+Gustav Eiffel made a long leap over precedent when
+he planned and built the spiral skeleton of Iron which
+made him rich and famous.
+The ambition of the Egyptians to pierce the sky with
+pyramids carried them less than half as high as this
+French engineer went on a comparatively fragile founda
+tion.
+The pyramid of Cheops 13 only 486 feet high; that of
+Cephrenes 456 feet.
+The best that Rome can do, with all her boasted
+achievements in lofty architecture, is to point to the dome
+of St. Peter's—a paltry 448 feet above ground.
+London steps into third place in these Old World ver
+tical achievements with her St. Pauls dome—36s feet up.
+Campanile, the famous leaning tower at Pisa, did not
+win fame because of the height of its arcaded colonnades
+bo much as because of its obliquity, and yet when we are
+told that this tower is thirteen feet out of plumb we
+learn in the same breath that it is 179 feet high!
+Stepping over to the New World to complete the table
+of comparisons more ambitious figures are encountered,
+and yet our best achievements are as pigmies in the
+shadow of the tower that Eiffel built.</text>
+      </result>
+     <result>   
+	<id>https://www.loc.gov/resource/sn84026749/1907-03-10/ed-1/?sp=47&q=Eiffel+Tower+Gustav+Paris+France+French+Republic</id>
+	<rel>1</rel>
+	<text>France Pranceher her fron frontiers fro1Zjers
+tiers jers her chains clzaillsof clzaillsoffortresses of offortresses
+fortresses and her herseaboard herscaboardsllch
+seaboard scaboardsllch such Is Isto isto
+to be the I further furthermission furthermisJion
+mission of Ithc the fa famous famOlls
+mOlls Eiffel Tower Toweri Towerof
+i of Paris ParisThis Par J JThis
+This struct strllcillrc strllcillrcere lire
+4 e ere r e c t c d a as s the thechief thechief
+chief curiosity of ofthe ofthe
+the Paris Exposi Exposition E 4posi 4position
+tion has outlived outlivedits
+its 11 usefulness in other respects and has hasbeen hasbeen
+been made the central point of the great greatwireless greatwireless
+wireless signal system of the French army armyand armyand
+and navy
+From the top of the tower which is
+984 feet from the ground roll1td officials of the thearmy thearmy
+army may direct military operations op ratio1Zs in any anyLift allYLftt
+Lift up your eyes and behold them that come from fromthe tromthe
+the NorthJer aclll 0 0URLNG 0D
+FlUNG the army manoeuvres last fall fallthe fallthe
+D the various corps were directed from fromthe fromthe
+the now station Later fleet movements movementsin mO mcnts mcntsin
+in the Englislrchannel El lis1 chRnnel and the Mediter Mediterranean M diter diterranean
+ranean wore ordered ord 6dwithout without a hitch in the samo samoway sarnotvaJr
+way wayQuite Quite lecently the scope scoP of communication communicationfirm comunicatio1f
+firm f m the tower towmlms has been Cxf rlendc1 ended so that no nOtY nOtYmessages v vmessages
+messages are exchanged e changed with London and Ber Berlin Berlin
+lin on the one onG side and with Tunis and Algiers Algierson Algierionthe
+on onthe the African coast on the other otherTte otherThe
+The work of equipping it for signal pur purposes purposes
+poses is now going on and it is expected to in inEtal instal
+Etal there the most complete coml lete system s stem of wire wireless wireleastelcir8P1ly
+less leastelcir8P1ly tdegrapny in the thewodd thewoddne world worldThe
+The French Frenchare are pleased with the idea of 1C 1Cbining re retaining
+taining the architectural curiosity curiosi ty and their theirjeamty tbcirFanity
+jeamty is tickled hy the plan to make it the theriost theost
+riost ost wonderful war eye on the globe globeIndeed glober
+r Indeed the enthusiastic people pcoJ le confidently confidentlysrpect confidentlyb
+b srpect ect in a short time tim to see 5e airships arriving arrivingt
+1t t and nd departing from this great steel stom stomfcn stomin
+fcn airship airshipstntion station nearly 1000 feet above earth earthBuilt earth1nt
+Built 1nt by the th famous engineer Gustavo Eif Eifr Eifrrr
+r
+rrr I
+part of ortlze the Republic and even for consider considerable cOlZsijerable
+able distances ovei tle tile frontier in adjolnlng adjolnlngcountries adj illi1lg illi1lgcOlilltries
+countries Its naval fleets In the thelYledi thelYledierrmzetlll Medi Mediterranean
+terranean errmzetlll the Bay Ba of Biscay the English EnglishChannel EllglishClza1l1zel
+Channel the North Sea or the Baltic B ltic will willbe willbc
+be In constant touch with the directing directingauthorities directilZgauthorities
+authorities In Paris ParisShould ParisShould
+Should France and England become becomeallies becolleallies
+allies in some future conflict direct com communication commtl1licat
+mtl1licat munication on with London can be maintained maintainedfrom mailltailledfrom
+from the Eiffel Tower Southward from fromit
+it waves of warning anJtSfypmmand Jm1lZmzd will willfloat j
+float into d Algeria 19cria and Tunis From this rc rcmarkable rcmarkable
+markable tower may issue orders that wilt wiltchange willdt willdtczange
+change the 7i of Europe v vfel
+czange map ap i iI iI iIel I I
+fel the tower was completed in March 1889 lSS9jn lSS9jntime in intime
+time to tOSCITe serve as 13 one of the notable features featur 5J of ofthe oftlte
+the exposition of that year ear It was the loading loadingattraction leallingattraction
+attraction of that big show and has never neversince neversinceceased since sinceceased
+ceased to draw visitors and coin coinIt coinIt
+It cost considerably over 1000000 to build buildtho buildtho
+tho tower for which 7000 tons of metal were wereused wereused
+used Of the cost 292000 was voted by tha thagovernment thlgovernmont
+government while the engineer supplied the therest thereat
+rest The profits for 1SS9 alone nearly paid nid tha thacost thacost
+cost
+Some idea of its height height984 984 fcot feotway niay be begained begained
+gained from a comparison with other structures structuresof
+of the world Tho Washington Monument at atWashington atVashington
+Washington D C is 555 feet tall the broad broadbrimmed broadbrimmed
+brimmed hat of William Penn on Philadel Philadelphias Philadelphias
+phias City Hall is 547 feet above the pave pavement pavement
+ment the dome of St Peters in Rome rises risesto risesto
+to only 448 feet while the great pyramid of ofCheops ofCheops
+Cheops is but 486 feet high highFrom highFrom
+From the top of the Eiffel Tower on onjlclear onjlclearday tclear tclearday
+day one can see about eightyfive mUei At Atnight Atni
+night ni ht a searchlight from this eminence stabs the thesurrounding thesurrounding
+surrounding darkness darknessAt darknessAt
+At its base this wonderful tower covers coversnearly coversnnarb
+nearly twc and a half acres of ground Its
+mt tmTf iY Wf Wflower
+lower section consists of four builtup iron col columns c ll llumns
+umns each of which consists of four smaller smallercolumns smaUercolumns
+columns resting on masonry piers piersSpringing piersSpringin
+Springing gracefully upward tho th four fourmain IOlrmain
+main columns curve toward each other until
+020 feet above the surface they join in si single singlecolumij singlecolum
+columij colum Above this the long needle of the thetower thetocr
+tower rises rie 3G4 feet higher higherAt1 higherAtlS0
+At1 AtlS0 ISO feet at 3SO feet and again a ain at 006 006feet 908feet
+feet there are platforms which are reached by byelevators byelevators
+elevators as well as by b stairs stairsFrom stairsFrom
+From the t e highest highcstplatform platform a winding stair stairway stairway
+way climbs to the very pinnacle of the struc structure strueture
+ture but this part has never been open to the thepublic theBublic
+public publicWhen
+When qen these different platforms are can canverted CQ CQverted
+verted in into tn airship stations the French will in indeed</text>
+      </result>
+     <result>  
+	<id>https://www.loc.gov/resource/sn83045462/1907-05-18/ed-1/?sp=26&q=Dangerous+Painting+World+Eiffel+Tower+Paris+France+French+Republic+Gustav&st=text&r=0.1,0.034,1.119,1.119,0</id>
+	<rel>1</rel>
+	<text>Height of the Great Tower
+as Compared to Some of
+the World's Tallest
+Structures.
+Special Correspondence of The Star.
+PARIS, May A, 1907.
+A painter has Just fallen from the Eiffel
+Tower. Four more men must fall to make
+the awful average of the most dangerous
+painting Job in the world?repeated every
+six years only.
+They are repainting the Eiffel Tower,
+and all Paris is concerned about the color,
+on which depends whether the gigantic
+mass of iron shall be the eyesore or the
+glory of the capital.
+Its first shade was "dead leaf," In 1889.
+When the sun lit it up to hazy golden with
+an unreal effect of Jeweler's fragility, even
+the artists who now corse it admitted that
+the Eiffel Tower had its nobility.
+In 1896, after immense discussion, they
+repainted It orange, magnetic currents
+even more than light and weather having
+turned it to a dingy chocolate, heavy and
+obtrusive. In strong sun the orange
+showed gleaming copper or red gold. Oscar
+Wilde declared It magnificent. Puvis de
+Chavannes threatened to blow It up with
+dynamite. From this period dated the bad
+name the tower acquired as a colossal
+piece of engineering vulgarity, usurping
+the artistic note of Paris.
+Then, for the exposition, they painted it
+"sun color." In bright lights the tower
+became a thing of glory once again.
+"All Depends Upon the Faint."
+"All depends upon the paint!" declares
+the city's architect, Bouyard, "a fact
+which shows the utter inartistic character
+of the Titan 1^3 intruder. The pyramids ol
+Egypt were originally cased with gleaming
+marble; but its present lack does not
+detract from the artistic appropriateness
+of the pyramids to their situation!"
+The tower gleamed sun color seven years
+agoi But the atmospheric electricity received
+every hour since then by such an
+unprecedented mass of iron reaching into
+the air so high is Incalculable. Conducting
+tubes a foot and a half in diameter
+lead it down the four niles to flftv feet be
+low the water-bearing stratum; but the
+effect on the paint la there for every one
+to see. It does not crack the paint off.
+The paint simply disappears, leaving the
+ugly chocolate, the dingy brown of the
+oxidising iron.
+It Is the tower's way of "calling for new
+victims. Fifty painters, working continuously
+together, take three months to do a
+ingle coat Few tourists realise- the immense
+proportions of the tower, but
+Parisian!, by experience, show you a peculiar
+phenomenon of Its deceptive symmetry.
+They take you In a cab close to the
+tower. It looks heavy and chunky. It
+seems sinking into the earth from lU
+weight. Half a mile distant from that
+oab the tower grows higher and slenderer.
+It seems to lift Itself from the earth, like
+a person rising from his knees. "Why, It's
+bigger than before!" you say. At a mil*
+distant-It seems quite as near. The river
+boats ttmt flit beside It now look tiny. The
+buildings round about are growing small.
+But the tower grows! Then at two miles?
+from the heights above Passy?It appears
+A 4kin? A# litfhtnMa hl alAn^nrAf
+Efc IIIIUB Vi u fc?v? gutiUVBWi ?and
+more open In Its lacework than when
+you gaped at its foot almost disappointed!
+In a country town thirty miles from
+Paris I have sat at night and watched Its
+leaxchltsht!
+Some Comparisons.
+Tou think Niagara Falls are high? They
+are 105 feet, and St. Paul's Cathedral, Lon- 1
+don. is 404 feet. Niagara Falls could de
+scend from below St. Paul's dome. Now
+place St. Paul's beside the Eiffel tower. It
+reaches only to the second platform of the
+tower?the real beginning of its slender
+shaftl
+Place the Eiffel tower beside the greatest
+buildings of the world. The great pyramid
+does not reach to Its Intermediate platform.
+Neither does the spire of the Cologne 1
+Cathedral.
+Only one 'set of buildings, nevertheless,
+are higher than the Cologne Cathedral
+Bplre. They are the sky-scrapers of American
+dtles, the tallest actually existing being,
+say, 6S6 feet high. It would not reach to
+the tower's intermediate platform, either.
+The loftiest masonry construction In the
+world is to be the Singer building extension,
+at the corner of Liberty street and
+Broadway, New Torlc. Beating any other J i
+American sky-scraper by 57 feet, it will i
+stick 612 feet into the air. And yet even j
+It will not reach to the Eiffel tower's inter- i
+mediate platform 1
+You can easily detect this intermediate i
+platform half way up the slender shaft of 3
+the Eiffel tower. In the nearer photographs j
+It shows for what it is?a mere platform
+for styftlng passengers from one set of ele- t
+vators to another, built In the center of the 1
+the time you git left. This yere man. Bob
+Hampton, Is my prisoner, an' I'll take him
+to Cheyenne. If I have ter brain every tough t
+in Glencaid to do It. Thet's me, gents." 1
+"Oh, come oft; you can't run your notions j
+igin the whole blame moral sentiment of c
+this camp." c
+"Moral sentiment! I'm backln' up the t
+aw, not moral sentiment, ye cross-eyed c
+jeer-slinger, an' if ye try edgin' up ther l
+mother stfep I'll plug you with this '45.' c
+There was a minute or hesitancy while i
+iie men below conferred, the marshal f
+ooking contemptuously down upon them, c
+lis revolver gleaming ominously in the v
+lght. Evidently the group hated to go back
+without the prisoner. j
+"Oh, come on. Buck, show a little hoss i<
+fense." the leader sang out "We've got c
+>very feller in camp along with us, an' 1
+:here ain't no show fer the two o' ye to t
+lold out against that sort of an outfit." 8
+Mason smiled and patted the barrel of hia
+-olt-
+"Oh. go to biases! wnen i want any aa- t
+rice, Jimmie, I'U send fer ye."
+Some one flred, the ball. digging up the f
+10ft earth at the marshal's feet, and fling-
+ng it in a blinding cloud into Hampton's f
+>yes. Mason's answer was a sudden fusi-
+ade. which sent the crowd flying helter- 8
+skelter into the underbrush. One among
+hem staggered and half fell, yet succeeded
+Wmcelf nnt nf slffht V
+"Great Scott, If I don't believe I winged
+Fanjes!" the shooter remarked cheerfully,
+-eaching back Into his pocket for more f
+cartridges. "Maybe them boys will be a
+)lt more keerful If they once onderstand v
+hey're up agin the real thing. Well, per-
+laps I better skin down, fer I reckon It's
+table ter be rifles next" t
+It was rifles next, and the "wincing" of
+US PAINTING JOE
+EIFFEL TOWER C
+A Comparison of the Relative Heigl
+Build
+The Great Pyramid. 480 ft. Wanhington Monument,
+ftt. Paul'*, 404 ft. Blackpool Tower, 516 ft.
+Monument, 202 ft. Nelaon
+shaft and not extending to Its exterior.
+In photographs of the tower at a greater
+distance It appears more clearly?almost
+like a story. And it is 647 feet from the
+ground.
+High Above the Ground.
+The third platform?which looks like the
+brim of a hat at the top?is 911 feet from
+the ground. Niagara, with a suspension
+bridge 100 feet high over it, could easily
+fall between it and the intermediate platform?above
+the top of the Singer extension;
+while the true top of the tower is still
+74 feet higher!
+VIotroxA Poll- 0
+a tu^ui u. i- ano nuuiu uavc niuic uiatt o Ui" j
+flcient room, In fact, to fall between any of
+the sections of the Eiffel' tower.</text>
+      </result>
+      <result>
+	<id>https://www.loc.gov/resource/sn83045462/1963-12-27/ed-1/?sp=10&q=eiffel+tower</id>
+	<rel>0</rel>
+	<text></text>
+      </result>
+      <result>  
+	<id>https://www.loc.gov/resource/sn83045462/1963-12-18/ed-1/?sp=63&q=eiffel+tower</id>
+	<rel>0</rel>
+	<text></text>
+      </result>
+      <result>  – doc 13
+	<id>https://www.loc.gov/resource/sn87065526/1963-11-07/ed-1/?sp=4&q=eiffel+tower</id>
+	<rel>1</rel>
+	<text>PARIS (UPI) Six months ago
+Annette Marie Nigen, 33, plunged
+from the first platform of the Eiffel
+Tower and survived.</text>
+      </result>
+      <result> 
+	<id>https://www.loc.gov/resource/sn83045462/1963-08-04/ed-1/?sp=54&q=eiffel+tower&st=text&r=-0.371,-0.087,1.742,1.742,0</id>
+	<rel>1</rel>
+	<text>rigid as a ram
+rod, with the idea that you
+are photographing a per
+sonal view of the Eiffel
+Tower, Taj Mahal, the Na
+tion’s Capitol, etc.</text>
+      </result>
+      <result>
+	<id>https://www.loc.gov/resource/sn86075250/1963-07-12/ed-1/?sp=2&q=eiffel+tower</id>
+	<rel>1</rel>
+	<text>Eiffel oL
+Tower ^1
+COMPLETED IN 1889,
+THIS FAMOUS PARIS WSF
+LANDMARK WAS M W
+THE TALLEST TOWER Es
+BUILT BEFORE sSmSs
+THE ADVENT
+OF TELEVISION
+I'll say it's an
+eyeful...and
+then some I F CJ
+Tower to heights in
+this community by
+banking with us.</text>
       </result>
     </results>
   </topic>
   <topic>
-    <id></id>
+    <id>https://guides.loc.gov/chronicling-america-daylight-saving</id>
     <results>
       <result>
-	<id>/</id>
-	<rel></rel>
-	<text></text>
+	<id>https://www.loc.gov/resource/sn85038411/1918-03-16/ed-1/?sp=15&q=daylight+saving+time</id>
+	<rel>1</rel>
+	<text>)AYLIGHT SAVING
+TO GIVE WORKERS
+TIME FOR PLAY
+'hysicians Believe Move Will
+Do Much to Better the
+Health of Many
+Men who like the great outdoors.'
+ho like to leave the offices for a
+alk. a little fishing trip nnd a round
+f golf—to-day praised the passage 1
+t the daylight-saving bill by Con- j
+ress.
+Physicians here to-day also were j
+f the opinion that tho new sched- j
+le. to become effective Easter Sun
+ay, will do much for thd healUi j
+fa great number of workers who'
+or the first time will have a chance
+3 get out into the parks and fields,
+fter a day's work.
+Businessmen generally tli rough-
+Additional Classified Y
+
+Advertisements on
+Opposite Page
+1
+TOO I, VI I' I'Olt CLASSIFICATION!
+REAL ESTATE WANTED
+FINE HOTEL FOR RENT
+Beautiful, desirable, modern four
+tory brick building, Duncannon, Pa.,
+•ith "0 rooms, all heated by steam,
+or rent- Rent reasonable. Suitable
+or apartments. All houses in town
+ented. This is good opportunity for j
+ight party. Apply T. K. VanDyke,
+;o. 21 North Third street. Harrisburg.
+a.
+GARAGES
+ACCESSORIES AND REPAIRS
+IF YOUR RADIATOR LEAKS bring
+t to us. We'll repair it. We also
+epair lamps, fenders, etc.
+IARRISBURG AUTO RADIATOR
+WORKS,
+05 N. THIRD ST. BELL I-XIONE.
+BRING your car to us. Experts on
+gnitioii and carburetor troubles. 1
+Ugliest srade repair work. LEMOYNE I
+.UTO SHOP. Lemoyne. Both phones, j
+NOW is the time to purchase live j
+übber fillers and save the cost of
+xtra tires and tubes. Sold by C. E.
+inderson, SOl North Eighteenth, 1
+ity. Dial 5158. j
+WM. PENN GARAGE
+04-S Muneeh street. Limousines for
+unerals, parties and balls; careful j
+irivers; open day and night. Bell
+Mt I
+YOUR leaky Radiator repaired by j
+n expert. Your motor troubles rems-
+ied. Rex Garage. 1317 North Third j
+ireet.
+M<>TOHCYCLES AN D BICYCLES j
+REBUILT MOTORCYCLES
+1917 Dayton
+Twin-cylinder, 9-horse-power, three-
+peed with starter, tools, tandem, 111a
+hine looks like new. Cost $300.00.
+end for our complete list.
+Selling Price, $160.00
+HEAGY BROS.,
+1200 North Third Street.
+BICYCLES AND MOTORCYCLES
+New and rebuilt bikes at
+prices that are not equaled in
+the city. Come In and let us
+sell you a bike 011 an easy
+payment plan. We make terms
+10 snit you.
+I have personally sold from I
+;ou to ::0U bikes each year in
+this city for the past several
+j ears, which is evident be
+yond doubt that my treatment
+and prices are tho best.
+Guaranteed repairing at
+reasonable prices, by men
+who know how to do work
+right.
+This is the season of the
+year to have your bike putin
+good shape for the summer
+season. Let us give you an
+estimate on the .iob.
+Repairing ol all kinds, re
+nickuling. rc-cnamellng, weld
+ing, straightening; frames or
+anything pertaining to a bike
+<>r motorcycle. We aim to give
+the best service in the cits.
+Write, phone or call.
+Bell 355.1 Dial 3590
+C. A. SPRENKLE
+Cycle and Auto Supply Co.
+107 Market St.
+BICYCLES. BICYCLES,
+s'ew and rebuilt bicycles at very at
+tractive prices; guarauteed repair
+ing; come here and get a square deal.
+H. F. EST EHE ROOK,
+912 N. Third Street.
+Dial 4990.
+BICYCLES TO HIRE
+DAY OR WEEK.
+DAYTON CYCLE CO..
+912 N. 3rd ST. DIAL 4990.
+BICYCLE REPAIRING
+BY AN ENPERT.
+ALL WORK GUARANTEED
+DORY SIIANER
+WITH
+ANDREW REDMOND
+BICYCLE
+SUPPLIES AND REPAIRING.
+SATISFACTION CU A R ANTEED.
+CYCLE ft AUTO SUPPLY CO.,
+Cleaners anil D;en
+SAVE your clothes. Get them clean
+ed, pressed, dyed or repaired at Good
+man's. 1306% North Sixth St. We do It
+right. Phones. Call and deliver.
+I'l BI.IC SALE"T
+PUBLIC SALE
+The undersigned will offer at Public
+?ale, on the premises, one-half mile
+101 th of Progress.- on Wednesday,
+fctaroh 20, commencing at 1 o'clock
+M.. Bight Horses, 12 young grade
+lolstoin Cows, 7 Holstein Heifers and
+I Holstein Bull, 22 head of Hogs, 2
+Jorries, 2 Top Buggies, 7 Sets of
+Jght Harness, 1 No. 2 Cooley
+.fiamer, 1 INewtown Coal-burning
+"plony Brooder, and other articles
+lot mentioned.
+B. FRANK OBER.
+r
+AUCTION SALE
+At -the residence of the late
+JOHN C. JENNINGS.
+1426 North Second Street,
+MONDAY, MARCH 18. 1918.
+At 1:30 P. M.
+XsiaSating of solid walnut bedroom
+mite, ball and stair carpet. 3 rugs,
+itteliati table, refrigerator, large lot
+>f ".r'-ple-jilated silverware, three
+tnatter niHi double beds, framed pie
+ures. plush davenport, dishes and
+:Ool:ing utensils, and other articles
+00 numerous to mention. Terms:
+E. P. JENNINGS. Administrator.
+MAXWELL H. HITE, Auctioneer.
+LEGAL NOTICES
+ADMINISTRATOR'S NOTICE
+restate of Harry P. Eisenhart. late of
+Harrisburg, Pa., deceased.
+LETTERS OF ADMINISTRATION
+>n .-aiil estate have been granted to
+he undersigned, residiiKT in said
+•Ity. All persons having claims or
+lemands against said estate will make
+iebt.ed to said decedent will make
+payment, without delay, to
+ANNA V. EISENHART,
+1409 N. Second St.
+SATURDAY EVENING, HARRISBURG iKfeAl TELEGRAPH MARCH 16, 1918.
+out the city this afternoon declared
+that the changing of hours would
+be accomplished without interrupt
+ing or hurting trade. It was said
+that tho change would mean little
+or nothing to the larger mills ahd
+munitions plants, where three shifts
+of men now ure engaged in working
+throughout the twenty-four hours, j
+No difficulty will be experienced in
+trolley car schedules, it was said at
+the offices of the Harrisburg and
+'cross-river traction companies and
+the turning of the watch will do
+the trick. i
+Theaters, railroads and every bus-
+iness house in the city will operate
+according to the now schedule, and,
+therefore, it was pointed out, there
+can be 110 confusion after a man
+has once reset his watch.
+Summed up, Mr, Littlefleld says:
+"The bill provides tor an hour
+advance in standard time at 2
+o'clock a. in. on the last Sunday
+in .March of each yefcr and at
+a. m. the lust Sunday in October
+uie standard time shall be retarded
+one hour. Eleven countries have
+adopted the summer daylight sav-
+ing plan. The first was Germany,
+then Great Britain, France, Austria-
+Hungary, Italy, Sweden, Denmark,
+Norway, Holland, Portugal and Au-/
+stralla. London, England, saved
+200,000 tons of coal during a sum
+mer. In England in five and one
+half months $12,000,000 in coal '.vere
+saved, and In France $10,000,000. It
+is estimated that in the United States
+$10,000,000 can be saved in light
+bills. The hour of daylight con
+served by the proposed law can be
+used by industrial workers throug
+out America for gardening and agri
+cultural work. This will be a most
+important gain. We are sure of a
+great shortage in farm labor this
+summer and something must be done
+to offset the probable loss in pro
+duction of farm products. The hour
+saved for daylight every day in April.</text>
+      </result>
+      <result> 
+	<id>https://www.loc.gov/resource/sn83045433/1918-03-16/ed-1/?sp=1&q=act+change+changes+Clock+daylight+daylight-saving+HOURS+law+Saving+standard+time</id>
+	<rel>1</rel>
+	<text>DAYLIGHT SAVING TIMl
+3HOURS
+VASTED
+lYLJGHT
+r" I'nY
+8HOUR WORKDAY
+FREE
+LIGHT
+HOURS
+
+ItlGHI
+These charts show vividly how the daylight saving plan will give j
+everybody more "free hour#" of daylight. You've heard this: "Well,!
+there are just so many hours of daylight in a day and you can't change j
+'em." But wait?the daylight hours before your work-day itarts are
+so-called "wasted hours"?you ?leep them away or spend them getting
+ready to go to work. The daylight saving plan merely "shifts" an
+hour of daylight to the "free hours" after work, when you can use it.
+The tables is based on the average June day and the workday from
+8 to 5 includes an hour for lunch.
+Moving the Clock.
+The clock will be set forward one
+hour at 2 a. m., March SI, according
+to the House bill. At the same hour
+on October 27, the clock will be set
+back.
+The present standard time rones
+will remain in effect.
+Both changes will take place on
+Sunday mornings so that the least
+possible wrench may be given to
+the industrial fabric of the nation.
+But even at that on the railroads
+alone there will be some 1.000 pas
+senger trains and 5.000 trains run
+ning on the tracks when the change
+comes, and 1,698.SIS railroad clocks
+and watches must be set forward
+to keep traffic moving and prevent j together. At present In summer
+accidents. In 1883. however, a sim- j London closes as New York opens,
+ilar change from local to standard i More time for golf, amateur base
+time went into effect on 100,000 ball and tennis.
+miles of railroad without a single
+mishap.
+Benefits of Plan.
+The following benefits will be
+reaped by the daylight-saving plan:
+Saving of one to one and a half
+million tons of coal per year, ac
+cording to Fuel Administration es
+timates.
+Increased food production by sub
+urban gardeners.
+Less traffic accidents.
+Improvement in health of all the
+people. More fresh air. Women
+workers will return from work in
+daylight.
+Speeding up of freight transpor
+tation by giving extra hour at docks
+and terminals.
+New York and London Stock Ex
+changes will be open for one ho'
+:i;
+Nation Moves Clocks Up
+One Hour Easter Sunday
+Daylight Saving Bill Passes House by Big Ma
+jority as War Measure?Some Opposition
+from Farming Communities.
+Clocks all over the oountry will
+be set ahead one hour, beginning
+March 31, under the so-called day
+light-saving bill, pessed yesterday by
+the House, 252 to 40.
+Senator Calder, author of the
+ure In the upp?r braftch iftf Congress,
+said the House amendments would
+be agreed to, so that a conference
+would not be necessary.
+Provisions of Bill.
+The bill provides that at 2 o'clock
+p. m. on the last Sunday In March
+each year, clocks all over the country
+which affect any operations of the
+Federal government, or railroads,
+i shall be set ahead one hour. At 2
+j o'clock p. m., the last Sunday in Oc
+j tober of each year, they are to be
+i retarded one hour.</text>
       </result>
       <result>
-	<id>/</id>
-	<rel></rel>
+	<id>https://www.loc.gov/resource/sn83030431/1918-03-24/ed-1/?sp=58&q=daylight+saving+time</id>
+	<rel>1</rel>
+	<text>Daylight Saving Is Simplicity Itself
+How Ben Franklin s Idea Conceived in 1784, Just Made Into Law Here, Will Affect
+Folks After Easter and Save Millions to the Nation
+10
+By WM. ARCHIBALD FERGUSON,
+Secretary of the National Daylight Sar
+ins Association.
+ON Ihc coming Apwl 1 more people
+in the United Slates will probably
+be April fool vietims than on any previ
+ous or future April 1, for Congress lias
+decreed that at 2 o'clock on the morning
+of March 31 the hands of the clock shall
+be turned forward one hour; in other
+words, the United States will then begin
+to live under the davlight saving plan,
+and doubtless thousands will forget to
+make the change.
+Every individual who is wise Jind hates
+to be fooled will before retiring on the
+evening prior to Kaster Sunday, March
+31, see to it that not onh his watch but
+every clock in the bou.se is turned for
+ward one hour. Otherwise on Sunday he
+will find the Easter services half over be
+fore he arrives at the church, and on
+Monday morning, April 1, VMS, rising
+an hour late, if he is a commuter he will
+miss his morning train by an hour and
+be greeted at the factory or office with
+such remarks as "April fool!" "You day
+light blacker! You forgot to turn your
+watch ahead, eh 7'' and all day long he
+will be the butt of many jokes.
+May Wait Lone for Dinner.
+If lie starts for home at the tame hour
+as usual and has not during the day tele
+phoned his wife to turn the clock ahead
+be will have a long wail tor dinner. One
+thing Is certain, hotvivcr. that before he
+retires that night crry member of his
+household will know that the daylight pav
+ing plan is in effect and that the people
+of the United States are living an hour
+ahead of sun time.
+The daylight sating idea U almost as
+Id as the United States it-elf and our
+country can rightly claim the credit for
+all the many advantages which will act-rue
+from it, not only in this country bat also
+in those countries which anticipated the
+United Slates in its adoption, for it was
+Benjamin Pranklm who Iirst conceited
+the idea.
+On an early morning walk along the
+Etreels of Imdou in 17.S4 the thought Iirst
+came to him, and in passing if on to the
+world at large he said:
+''In a walk through the Strand and Tit et
+ttrect one morning at 7 o'clock I ob.-Ttcd
+then; was not one shop open, although
+it had been davlight ami the sun up
+above three hours, the inhabitants of
+lxndon choo.-iug voluntarily to live by
+candle light and sleei by sun-bine; and
+yet often complaining :t little absurdly of
+the dnty on candles and the high price
+of tallow.''
+Soon thereafter in the Jtwrnal Je
+Faris he publL-hcd an article, later ap
+pearing among his es-ays under the title
+4An Economical Project," which further
+elaborated the advantages of daylight sav
+ing; namely, of "Turning the clock for
+ward an hour" so that everybody would
+live one hour longer by davlight and one
+hour less by artificial light.
+Beaten Repeatedly in Britain.
+Tor many years in England in the
+last century Sir William Willctt annually
+introduced his davlight sating bill in Par
+liament and annually the bill wa- de
+feated amid laughter and ridicule.
+In 1915 Germany tirst adopted the plan
+to speed np the war production and io
+benefit by the tremendous saving in fuel
+consumption. France and England and
+nil other European countries except Rus
+sia soon alter followed her example.
+Since its adoption in Europe, the.
+United State.-, Canada and Mexico have
+been out of harmony, so far as time was
+concerned, with European countries, to
+their loss not only in business, for the
+stock exchanges of Ixindon and Paris un
+der the new plan were closed before the
+exchanges of New York and I tost on were
+open, but also as regards the tremendous
+savings pos-ible in light bills, which, it
+is estimated, annually will run from V0,
+000,000 to $50,000,000 in the United
+Sfates alone.
+The plan has been ardently advocated
+in this country since May, Wlfi, by the
+Merchants Association of this city, cham
+bers of commerce of Boston, Rochester,
+Philadelphia, Chicago and Pittsburg, the
+United States Chamber of Commerce,
+Washington, D. C, and the National Day
+light Saving Association, of which Marcus
+M. Marks, former Borough President of
+Manhattan, is the president. Mr. Marks
+has often been called the '"'father of day
+light saving in this country."
+To illustrate the effect of the. plan, let
+us follow Jack Hurryup, a New York
+commuter, through his first business day
+under the new regime.
+Mr. Hurryup is a habitual reader of
+The Scn, and accordingly he knows he
+should on the evening of March 30 turn
+his watch and clocks ahrad one hour be
+fore he retires at 9 o'clock. But on the
+night of Easter Sunday he goes through
+the house from the kitchen to the
+roof and advances each clock one hour
+and is surprised when he arritis iu his
+bed chamber and looks at his watch to
+lind that he is retiring at 10:1.1 instead
+of i:15 his lirst shock from daylight
+saving.
+The alarm dock rings louder than
+usual the next morning and he. jumps out
+that several of his friends to whom he
+telephones have not yet arrived at the
+office, but are expected auy minntt.
+At 1 o'clock, his usual hour, he hurries
+to the restaurant for luncheon and finds
+a slim crowd. Upon returning to the of
+fice all is running smoothly and at quar
+ter of 5 he closes his desk to catch the
+5:15. As he passes through the gate at
+the Grand Central he sees the same fa
+miliar crowd starting on their nightly
+journey home.
+Ed, Kill and Dick are on hand for the
+nightly game of poker, .lack and his
+friend Ed were the losers in the game,
+for they spent most of their time joking
+Bill and Dick for being April fools aud
+having missed the train in the morning.
+Alighting from the commuters' special
+in the country, he is happily pleased to
+note that it has not vet begun to grow
+BENJAMIN FRANKLIN
+jr FROM THE ENGRAVING OF THE DUPLESSIS' PORTRAIT OF 1778
+Noted American philosopher is the father of daylight saving.
+of bed at C:.'J0, leans out of the window
+and noles that the sun is ju-t ri-ing, and
+then realizes that he is really getting up
+one hour earlier by the sun, although the
+alarm went off at the usual hour.
+He rushes through his bath and his
+breakfast and runs for the train. When
+he arrives at the station he is surprised to
+find many of his pals missing. The train
+pulls in and he runs to his customary scat
+in the smoker: the table and the cards
+are there, but only one plajcr besides
+himself. He greets Ed .(ones, who
+boarded the train at the station, above
+with:
+"Good April fool joke on Bill and
+Dick! Guess they forgot to turn their
+watches ahead last night. We'll have
+some sport with them to-morrow."
+Mr. Hurryup piles into the subway
+aud is astonished to lind a seat at the
+Grand Central, his second shock from
+the daylight saving. "Guess a lot of peo
+ple are fooled by this daylight saving
+this morning," he mutters to himself.
+He arrives at the office, looks at the
+clock to see whether he has consumed the
+usual time on his journey down town and
+is surprised to find that he is arriving
+at 8:1.1, the exact time at which he took
+the tram at his station. Shock No. 3.
+No oflice boy in sight. He rings for his
+stenographer and she greets him with a
+hearty "Good morning He tells her
+to get the porter immediately and turn
+that oflice clock ahead one hour.
+He finds no mail on his desk and con
+cludes that the letter carrier is also one of
+the daylight saving April fo;Is.
+The morning runs on as usual except
+dark and that the sun is still shining
+brightly at 0 o'clock. "We fooled ton to
+day. Old Sol, and will keep fooling you
+until November 1," he says to himself.
+Arriving at the house he goes to the
+cellar, and finding that he need not turn
+on the lights he gels out the lawn mower
+and bis garden tools.
+"This daylight sating is all right," he
+calls up fo Mary; ''don't hurry to get on
+the dinner. I am going to mow the lawn
+and wotk in the garden until sundown."
+After an hour's work about the grounds
+.lack comes in to dinner and he anil Mary
+agree that daylight saving is the greatest
+boon ever conferred upon New York com
+muters. The chief benefits of the plan, as
+proved by the experience of England,
+France and other European countries
+where it has been in force, may be gen
+erally summarized under three heads:
+Eirst General health of all people
+benefited by reason of an added hour of
+daylight in the late afternoon, which has
+been and will be u-ed for outdoor recre
+ation and exercise.
+Second Increased production of food
+stuffs through the stimulating cultivation
+of home gardening.
+Third Money saved in lighting bills:
+each householder will burn artificial light
+one hour less each day, provided, of
+course, he continues his usual habits of
+retiring at night.
+The report of the summertime commit
+tee appointed by the British Parliament
+in September, 1!1G, to inquire into the
+social and economic results of the sum
+mertime act shows that the extra hour of
+dat light was generally ucd for the pur-po-e
+of outdoor recreation and pursuit's,
+and, in particular, for the cultivation of
+home gardening.
+The athletic dubs reported that the
+cricketers, bowlers, golfers and tennii
+players took full advantage of the extra
+hour of light, and swimming pools and
+playgrounds were utilized to full capac
+ity. Iu view of the national agitation last
+year, which is being renewed now, for
+the cultivation of home gardens to in
+crease the production of food the inaugu
+ration of the daylight saving plan iu this
+country will undoubtedly very greatly
+stimulate home gardening, particularly in
+the neighborhood of the great cities. In
+New York city alone there are 1,000.000
+daily commuters. Should only one-half
+of them use the extra hour of daylight
+which the plan will give in cultivating
+home gardens there will bo 3,000,000 extra
+hours utilized weekly in gardening and
+during the seven summer months in which
+the plan is in operation 2,000,000 days of
+extra work and time will be spent by
+these 500,000 commuters in the cultiva
+tion of gardens.</text>
+      </result>
+      <result>
+	<id>https://www.loc.gov/resource/sn88064305/1918-03-28/ed-1/?sp=1&q=daylight+saving+time</id>
+	<rel>0</rel>
 	<text></text>
       </result>
-    </results>
-  </topic>
-  <topic>
-    <id></id>
-    <results>
-      <result>
-	<id>/</id>
-	<rel></rel>
+      <result> 
+	<id>https://www.loc.gov/resource/sn84026749/1918-03-30/ed-1/?sp=2&q=daylight+saving</id>
+	<rel>1</rel>
+	<text>Aat Hour Of Daylight Beginning Tomorrow Morning
+te&mmMmauim amhmm kiimmmmmssmm y-irmmsmm
+…
+If you do so understand the daylight-saving-
+law, and there are many
+who are puzzled, do .not worry. Just
+before going- to bed tonight advance
+your clock one hour that Is. 
+…
+Tbere is no occasion for the slightest confusion in
+the matter of daylight saving, which begin tomorrow.
+All you have to do is when you go to bed tonight, set
+your clock oxK hour ahead. Get up at the regular time,
+BY THE CLOCK, and proceed as usuaL The simplest
+statement of the whole thing is set the clock arc hour
+ahead and follow the clock.
+HaYe7f aDatefor
+2:30 Ton new Mora?
+BetYouDon'tKeepIt
+Til meet you at 2:30 o'clock,
+in the morning,' said one man
+to another in front of Tho Tlmea
+today.-"
+Tes No you won't either."
+"Why, you -poor fish. You can
+certainly be there at 2:S0.
+"Wrong-. Archie. Follow to
+closely. There will be no 2 JO in
+the morning. When the daylight
+savings law goes into effect at
+2 o'clock the hands on the clock:
+will "be moved around one hour to
+3 o'clock. So there will be no
+ha'.." past two." l
+-Welt I'll be
+day nights will ,jct 'a short night, as
+the' clock will Jnmp' from 2 to 3
+o'clock.
+Sleep Henr Less.
+If you do not have to work to
+night you will get an hour's less
+sleep than usual, unless you go to
+bed an hour earlier than usual to
+make up for' the hour the clocks will
+skip. If you turn up the clock an
+ALLEYLAWMAY
+BESTOW)
+hour before) g-otag- to bed and then go
+to bed accordingly, you wlti get the
+usual night's sleep. For instance. If
+the usual bedtime is 11 o'clock, turn -the
+clock up one hour at 10 from 10
+to 11 and go. to bed. The only'
+necessary change for you then under,
+the daylight saving- law has been I
+made, and you have BO'further wor-l
+ries.</text>
+      </result>
+      <result> – doc 6
+	<id>https://www.loc.gov/resource/sn87057262/1918-03-30/ed-1/?sp=7&q=daylight+saving</id>
+	<rel>1</rel>
+	<text>f You Play Golf Just Think of the
+Extra Daylight You'll Have to
+Chase Over the
+Green.
+JUST DO THIS AND BE CONTENT.
+8et all clocks and timepieces ahead
+One hour Just before retiring Saturday
+night.
+Those who are awake at 2 a. m.,
+Sunday, may wait until that hour to
+set their timepieces ahead one hour.
+Ahead—-forward—one hour. Under
+stand this and do it, and having done
+it, be content, nor worry any more
+about it.
+This simple Instruction, obeyed so
+thoroughly that every timepiece in
+the oountry la thus changed one hour
+ahead, will carry out the law and pre
+vent any confusion whatever. Every
+phase of life will move ahead with the
+cloaks—trains, street cars, business,
+religious services—everything. The 9
+o'clock trains Sunday morning will
+leave at 9 o'clock by the clock. The 7
+o'clock atreet cars will run at 7 o'clock
+by the clock—everything will be Juet I
+as it Is now, by the clock. And the riotic
+clock will be the only thing to rely on
+as
+It Is now. Just what!his
+the clock says, after It has been turned
+ahead one hour, that will be the time,
+and the time for everything, Just as It
+is now. There will be no change in
+anything except the clocks and
+watches, and no one need pay any at
+tention to the fact that they have been
+moved one hour ahead.
+Complete plans for the daylight sav
+ing system, which' goes into effect to
+morrow have been announced by fed
+eral officials and the nation's workers
+are ready to push the hands of the
+•clock one hour ahead to assist Uncle
+Sam In hig fight for liberty.
+Every city in the country, every
+town and village, everything is in
+readiness for the new system, a sys
+tem that will save the nation thou
+sands of tons of coal daily as well as
+assisting the working man, the shop
+girl and the laboring clasa as well as
+the busy office man.
+What this plan means to the nation
+can be described in a few words. In
+the first place It means the conserva
+tion of the fuel supply. Secondly,-it
+gives the average man more time to
+devote to gardening, which In turn
+means a "bigger supply of food for the
+nation and, thirdly, it means a more
+healthy nation.
+The work of the masses will be done
+In daylight, where, heretofore, it was
+done In the dark a certain number of
+hours a day.
+Favored by All.
+Since the plan was first spoken of
+it has attracted the attention of some
+of the biggest men in the country.
+Efficiency experts have studied the
+plans and in very instance have re
+turned a favorable report on their
+study.
+The action has been favored by
+President Wilson for the past several
+months. Garfield and Hoover have
+been ardent supporters of the plan.
+There has never been an argument
+against the system and every learned
+man in the country is of the J.rsllef that
+the plan will greatly aid the nation's
+savings.
+The daylight saving plan will give
+the following daily advantages:
+One hour or more for outdoor rec
+reation. Recreation is a national as
+set, an immense force for health and
+moral well-being.
+Working mothers and fathers obtain
+an extra hour for outdoor play with
+their children, both summer and win
+ter.
+One hour less for bad lights in tene
+ments.
+Lessened eyestrain for workers and
+school children due to the use of artifi
+cial light.
+Smaller risk of accident in indus
+trial establishments, because there
+jwill he a light hour instead of a dark
+one at the end of the working day at
+,tlie time of greatest fati-gue and most
+{frequent accidents.
+Lessened risk of accidents due to
+I transportation and traffic conditions,
+because the afternoon rush will fall in
+iduylight Instead of darkness,
+Working girls will be on the way
+home in the daylight instead of in the
+!dark in winter.
+Our last hour of sleep will be sound
+ier and more 'beneficial than it is un
+der present conditions, because there
+will be less light.
+General efficiency will, of course, be
+•increased by any improvement in the
+(health morals and social welfare of
+tiie workers and others.
+Morning Coolness.
+I In summer a cool hour In the morn
+jing is substituted for a hot one In
+I the afternoon.
+I In winter a light hour at the end of
+the day is substituted for a dark one.
+This is especially valuable com^g as
+it does at the time of greatest fatigue,
+and is peculiarly valuable in some in
+dustries where aocurate eyesight is
+essential.
+Efficiency is lowest in the later aft
+ernoon, the time when- accidents are
+roost frequent.
+There will be the greatest of all sav
+ings—that of hnman materials, as
+pointed out above.
+Immediate saving in form of reduc
+tion of expense for light and heat.
+Ultimate saving in the conservation
+QPHE DAILY GATE CITY^
+of coal and other sources of light and
+heat
+Possilble reduction in the cost of liv^
+ing of those who like to work in their
+gardens, utilizing the extra outdoor
+hour for this purpose.
+A memorandum containing the fol
+lowing important reasons tor the uni
+versal adoption of the daylight saving
+plan, looking at the matter from the
+standpoint of war needs, was sent to
+the house committee in February:
+The training of the national forces
+will be expedited, and the practice of
+home guards and similar organiza
+tions, the members of which have oth
+er regular occupations, will be great
+ly facilitated.</text>
+      </result>
+      <result> 
+	<id>https://www.loc.gov/resource/sn83030193/1918-03-30/ed-1/?sp=3&q=daylight+saving</id>
+	<rel>0</rel>
 	<text></text>
       </result>
+    <result>
+	<id>https://www.loc.gov/resource/sn84026749/1918-03-31/ed-1/?sp=8&q=daylight+saving&st=text&r=-0.292,-0.172,1.304,1.304,0</id>
+	<rel>1</rel>
+	<text>Daylight saving as war measure
+compulsory. It is ilmated .that
+the measure will rts-ult In a cut of
+M j nat,on., blI1
+tor artificial Sight
+The change tn the Government de-1
+Ipartments, the, a to res, business houses
+office's-' of. -Washington will b
+affected practically without notice.
+Clock were turned up at the close of
+business last night, or during the
+morning today. The hands on the big
+postoffice clock were turned up at
+p. ra. this morj-itnsr. the official hour
+for the change.
+The Senate, however, took time by
+thhe forelock yesterday and moved
+the Senate clock up at 2 o'clock 'in
+tbo afternoon. Senator Caltler of
+I Sew York, who sponsored the day-
+Jthe clock up there twelve l.mirs be-,
+!'u1
+fore schedule. Ills performance was I
+
+i ji lAict "iiaiii? niiu iiianuiaL'iiii
+.era' Association put the clock ahead
+one hour at the clo.r- of business yes-
+
+terday. It was tunfed up by Secre
+tary C. J. Colurabuy. It was an
+nounced that there would b" no
+change ln store or other business
+hours in Washington.
+MARINES AT QUANTICO
+WILL PRESENT-SHOW
+,..c w.u.. raiiro-ls for proposal on (lie ron-
+irrespective of the clock or time .miction of niO.tMMi freight cars. Tin
+One of the, most. pretentious .-a.nip record. car, will be of a standaid dcj-lk-n. de-
+theatrical productions ever attemp'
+ed will be given by the men of the
+heavy artillery farces at Ihe Marine
+Corp Theater at Quantico next
+Thursday evening under the title of
+"The Marine Itevue
+More than -IX) marines will tal.e
+part In the show, which is a musics I
+comedy-minstrel show combined. It
+Is to be the exclusive production of
+the enlisted men of the marine corps.
+Klaborate stage effects of the show
+are the work of Kirst Sergt. H. H.
+Hudde. formerly manager" and dlrec-'
+tor of a theater in Chicago. T.he
+I mus'c In prepared and directed by
+Private IV. W. Multrr. former soloist
+for the.PhJladelrrhia Oj-chestra.
+PALMER TAKES OVER
+BREWERY SUPPLY CO.
+A. Mitchell Pslmer. alien nronertv
+custodian, bus taken oer the K. and
+li KeurconJ,Cotnpany. .of Nev .Qr-
+e.n:
+r,,e ev.ny-rroiks brerr siir.-
+pIlcK and l.os r.100,000 capital stock,
+r 'ai-.e iX oT" which Ts' enemy'
+icrt, f j.nurltr Pyk, vice president
+ui -th.-JUiltny. intral -National
+nk or Xew Orleans, has bee,,
+T to mt Be director
+Text of Daylight Saving Law
+An act to save daylight and to provide, standard time for the United
+Be it enacted by the Senate and
+United' States of America m. Congress -ossemDiea, mat, ior ine.pur-.
+pose of establishing the, standard time of the United States, the ter
+ritory of continental Umted States shall be divided .into five zones in
+the manner hereinafter provided. The standard time of the. first zone
+shall be based on the mean 'astronomical time of the second, .zone, on
+the.ninetieth degree; that of the third zone, on the one hundred and
+fifthdegree; that, of thefourth zone on .the one hundred and twentieth
+degree, ard that of the fifth zone, which shall include only Alaska, on
+the" one hundred and fiftieth' degree. That the limits of "each zone shall
+K AofmaA hv an nrtloi- nf thp Interstate Commerce Commission, having..
+regard for the convenience f commerce and the existing. jucc.tion J
+points and division point 'of common .carriers engaged in commerce-J
+between the several States' and. with foreign nations, ana sucn oruer
+'may be modified, from time to time.</text>
+      </result>
+     <result>  
+	<id>https://www.loc.gov/resource/sn87057262/1918-04-01/ed-1/?sp=5&q=daylight+saving&st=text&r=0.21,0.022,0.465,0.465,0</id>
+	<rel>1</rel>
+	<text>Keoktik observed the daylight sav
+ing law Sunday morning by turning
+the clocks ahead one hour. And every
+The earth Is approximately 24,000
+miles around. It makes a full turn in
+twenty-four hours, or travels at the.
+rate of say one thousand miles per
+hour. We poor mortals, clinging to
+the earth as best we can are being
+whirled around at this excessive rate
+of speed. We are going some. Yet
+Sunday morning at 2 o'clock, when the
+clocks were changed, we made an ex
+tra jump of a thousand miles in our
+mad race. Did you notice the change?
+The miser has $200,000 out at inter
+est at six per cent. His income from
+this is $1.37 every hour of the day.
+Sunday morning he made an extra
+$1.37 when the clocks were changed.
+But when the clock is changed iback in
+October, he will lose an equal amount.
+The sick man was to be given a pill
+every half hour. The nurse had been
+instructed to be very careful in fol
+lowing out the instructions. Some
+body changed the clock and she got all
+muddled up as to whether to give the
+dying, man two extra pills. It was a
+case of life and death. The nurse
+fainted and the poor sick man got no
+pills all night long. When the nurse
+regained consciousness, her patient
+had recovered and was out working in
+his war garden.
+The early worm had become tired
+of dodging the early bird every morn
+ing, so the worm made his trips over
+the top an hour earlier each day. But
+the bird observed the new daylight
+savings law and met the worm half
+way as usual.</text>
+      </result>
+     <result>   
+	<id>https://www.loc.gov/resource/sn84026749/1927-09-23/ed-1/?sp=29&q=daylight+savings</id>
+	<rel>1</rel>
+	<text>The Daylight Savings Ghost
+Again Rears Its Head
+The ghost of daylight savings once more bobs up.
+Although Congress refused to enact a daylight-savings law
+for the Distrcit just after the war, another attempt may be
+made to obtain congressional consideration for it.
+Voluntarily in force here during the war, daylight savings
+Created such confusion that the proposition to make it
+permanent by law was bitterly fought. Congress, usually de
+lighted to fasten theories upon the District, balked in the face
+of the strong opposition, especially from farmers and farm
+organizations.
+Congress will probably be of the lame, mind this winter if
+a bill for District daylight savings is submitted.
+As a recreation measure, daylight savings is strongly favored,
+but for domestic and business purposes it doesn't stand so
+well. Despite laws in a number of States and cities, passed
+when the daylight savings fad was at its heighth, the scheme
+has made little or no recent progress. The large Eastern
+railroads continue to adhere to standard time throughout the
+year.
+Daylight savings imposes its worst hardships upon city
+housewives and farm and suburban households. Housewives
+enjoy none of its benefits. Their hours of work, oh the con
+trary, are lengthened.
+In this city, for example, the mother of a family going to
+work at different hours of the day would be serving breakfast
+at varying hours of the morning to suit the employment hours
+of her husband and children. The boarding housekeeper
+Would be in the same fix.
+The servant problem is another factor that leads to the
+upsetting of domestic routine and family habits.
+It was impossible during our trial of daylight savings to
+reconcile working hours in this city. In the Government de
+partments there were different hours of going to work and
+leaving work. This added to the burdens of housekeepers.
+Mothers, with children in schools* were compelled to arouse
+their children an hour earlier than customary, but found it
+almost impossible to get them to bed at night an hour earlier.
+In the opinion of many physicians, mothers and children did
+not get the sleep they were accustomed to and should have.
+The advantages of daylight savings, as viewed by its work
+ings here, were far less than the disadvantages, which in
+cluded Upset domestic conditions and considerable chaos.</text>
+      </result>
+      <result> 
+	<id>https://www.loc.gov/resource/sn83045499/1949-04-23/ed-1/?sp=1&q=daylight+savings</id>
+	<rel>1</rel>
+	<text>Daylight Saving Time
+at 2 A.M. Sunday
+NEW YORK, April 23. UP)—About
+50,000.000 Americans will be cheat
+ed out of an hour's sleep to
+night with the advent of daylight
+savings time.
+Most of the big cities turn their
+clocks ahead cns hoar at 2 a.m. on
+feur.day.
+Residents will have to wait until
+September 25 to get back their
+“lost hour.” At that time clocks
+go back an hour.
+The object of daylight savings
+time is to allow daytime workers
+to enjoy an added hour of day
+light after the quitting whistle.
+For that reason it is most popu
+lar in heavily-settled areas.
+Large cities going on “fast time"
+include Portland, Me., Boston, Prov
+idence, New York, Newark, Phila
+delphia, Pittsburgh, Baltimore.
+Washington, Cleveland, Chicago, In
+dianapolis, St. Louis and Portland,
+Oregon.
+Seattle waits until June to change
+i its clocks.
+j* Some cities that had daylight
+savings time a year ago have
+f abandoned it this year. They in
+clude Los Angeles, San Francisco,
+Detroit, Chattanooga and Nash
+ville.</text>
+      </result>
+      <result>  
+	<id>https://www.loc.gov/resource/sn84020662/1949-04-25/ed-1/?sp=4&q=daylight+savings&r=-0.059%2C0.327%2C1.423%2C0.757%2C0&st=text</id>
+	<rel>1</rel>
+	<text>Americans got cheated out of
+an hour’s sleep Saturday night
+with the advent of daylight sav
+ings time. Most of the big cities
+turned their clocks ahead one
+hour at 2 a.m., Sunday.
+Residents will have to wait un
+til September 25 to get back their
+“lost hour.” At that time, clocks
+will go back an hour.
+The object of daylight savings
+time is to allow daytime workers
+to enjoy an added hour of daylight
+alter the quitting whistle. For that
+reason ill is most popular in heav
+ily-settled areas.
+Large cities going on “fasttime”
+include Portland, Me., Boston,
+Providence, New York, Newark.
+Philadelphia, Pittsburgh, Balti
+more. Washington, Cleveland, Chi
+cago, Indianapolis, St. Louis, and
+Portland, Ore.
+Seattle waits until June to
+change its clocks.
+Some cities that had daylight
+savings time a year ago have
+j abandoned it this year. They in
+clude Los Angeles, San Francisco,
+Detroit, Chattanooga and Nash
+ville.</text>
+      </result>
       <result>
-	<id>/</id>
-	<rel></rel>
+	<id>https://www.loc.gov/resource/sn88064305/1919-08-28/ed-1/?sp=1&q=daylight+savings&st=text&r=-0.316,0.111,0.981,0.981,0</id>
+	<rel>0</rel>
 	<text></text>
+      </result>
+      <result>  
+	<id>https://www.loc.gov/resource/sn84022396/1931-04-16/ed-1/?sp=13&q=daylight+savings&st=text&r=-0.256,-0.032,1.511,1.511,0</id>
+	<rel>1</rel>
+	<text>PREDICTS DAYLIGHT
+SAVING WON'T LAST
+Chief of Weather Bureau Say* Ad
+vancad Time i* a Nui*ance
+The practice of observing daylight
+saving schedules by business organ
+izations in at least 33 cities in Con
+necticut, including New Haven,
+Bridgeport, Stamford, Hartford and
+Waterbury, as well as throughout the
+entire country, should be abandon
+ed for the reason that daylight sav
+ing schedules are a "nuisance, ac
+cording to Dr. C. F. Marvin, Chief
+of the Weather Bureau.
+A survey revealed that in spite of
+a law in Connecticut making it an
+offense to show other than standard
+time on clocks or timepieces publicly
+displayed, daylight time is observed
+by business organizations in at least
+33 cities in the state. This law, it
+was pointed out, was an attempt to
+prohibit the observance of daylight
+savings.
+Dr. Marvin predicted that observ
+ance of daylight savings wiil event
+ually be abandoned because the plan
+inconveniences more people than it
+benefits and because it upsets the
+chronology of scientific studies. In
+the United States, he declared, the
+repeated changes in clock time create
+difficulties in maintaining railroad
+schedules, hamper farmers in their
+marketing activities and even dis
+comforts the city employe who is sup
+posed to benefit most from the plan.
+The survey showed that daylight
+time was observed during 1930
+throughout the entire states of Mas
+sachusetts and Rhode Island. Maine
+has a state law similar to that of
+Connecticut, prohibiting observance
+of other than Eastern Stamlaid
+Time. Two cities in New Hampshire
+and one in Vermont observe day
+light savings.</text>
       </result>
     </results>
   </topic>
 </topics>
+
